@@ -1,0 +1,1 @@
+-net_Vcc VCC -net_GND GND -dse

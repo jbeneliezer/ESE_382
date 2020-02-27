@@ -1,0 +1,14 @@
+ispLEVER Auto-Make Log File
+---------------------------
+
+Updating: VHDL Post-Route Simulation Model
+Start to record tcl script...
+Finished recording TCL script.
+
+Starting: 'C:\ispLEVER_Classic2_0\ispcpld\bin\edif2blf.exe -edf "gray_bin_cpos.edf" -out "gray_bin.bl0" -err automake.err -log "gray_bin_cpos.log" -prj untitled -lib "C:\ispLEVER_Classic2_0\ispcpld/dat/mach.edn" @"gray_bin_cpos.esp" -nbx -cvt YES'
+
+Starting EDIF2BLIF....
+EDIF2BLIF: Error: Syntax error at line: 107. Do not use system reserved word for user defined name.
+ EDIF2BLIF ended - 1 error(s), 0 warning(s)
+
+Done: failed with exit code: 0001.
