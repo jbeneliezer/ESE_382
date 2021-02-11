@@ -1,0 +1,11 @@
+[Files List]
+C:\Aldec\Active-HDL-Student-Edition\vlib\std/src/standard.vhd=S
+C:\Aldec\Active-HDL-Student-Edition\vlib\std/src/textio.vhd=S
+C:\Aldec\Active-HDL-Student-Edition\vlib\ieee/src/std_logic_1164.vhdl=S
+C:\Aldec\Active-HDL-Student-Edition\vlib\ieee/src/std_logic_1164-body.vhdl=S
+C:\Aldec\Active-HDL-Student-Edition\vlib\ieee/src/numeric_std.vhdl=S
+C:\Aldec\Active-HDL-Student-Edition\vlib\ieee/src/numeric_std-body.vhdl=S
+c:\My_Designs\lab05\lab05/src/gray_bin_case_vect.vhd=S
+c:\My_Designs\lab05\lab05/src/gray_bin_loop.vhd=S
+c:\My_Designs\lab05\lab05/src/gray_bin_selfcheck_TB(3) (1).vhd=S
+c:\My_Designs\lab05\lab05/src/gray_bin_selfcheck_tb_vect.vhd=S

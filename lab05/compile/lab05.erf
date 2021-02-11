@@ -1,0 +1,10 @@
+MESSAGE "File: c:\My_Designs\lab05\lab05\src\gray_bin_selfcheck_tb_vect.vhd" 
+MESSAGE "Compile Entity "gray_bin_selfcheck_tb"" 
+MESSAGE "Compile Architecture "tb_architecture" of Entity "gray_bin_selfcheck_tb"" 
+MESSAGE "File: c:\My_Designs\lab05\lab05\src\gray_bin_loop.vhd" 
+MESSAGE "Compile Entity "gray_bin"" 
+MESSAGE "Compile Architecture "gray_bin_loop" of Entity "gray_bin"" 
+ERROR COMP96_0019: "Keyword 'end' expected." "c:\My_Designs\lab05\lab05\src\gray_bin_loop.vhd" 14 3
+ERROR COMP96_0015: "';' expected." "c:\My_Designs\lab05\lab05\src\gray_bin_loop.vhd" 15 6
+ERROR COMP96_0016: "Design unit declaration expected." "c:\My_Designs\lab05\lab05\src\gray_bin_loop.vhd" 15 14
+FAILURE "Compile failure 3 Errors 0 Warnings  Analysis time :  94.0 [ms]" 

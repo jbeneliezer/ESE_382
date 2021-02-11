@@ -1,0 +1,12 @@
+[Version]
+Version=10.5
+[Designs]
+gray_bin_csop=.\gray_bin_csop\gray_bin_csop.adf
+[Browser]
+sort=order
+mode=none
+[Order]
+order=1
+macro=
+[Expand]
+gray_bin_csop=1

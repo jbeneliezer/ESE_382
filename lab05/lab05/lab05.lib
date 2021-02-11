@@ -1,0 +1,42 @@
+timestamp=1583294580991
+
+[~A]
+ModifyID=40
+Version=74
+
+[gray_bin]
+A/gray_bin_case_vect=21|./../src/gray_bin_if_vect.vhd|10|1*42549
+A/gray_bin_loop=21|./../src/gray_bin_loop.vhd|10|1*45195
+BinI32/gray_bin_case_vect=3*19201
+BinI32/gray_bin_loop=3*21529
+I=0*19740
+I/gray_bin_case_vect=0*22834
+I/gray_bin_loop=0*23716
+M=11|0|vde|1583293022112|./../src/gray_bin_case_vect.vhd|0*19416*0xff62d0b80cae96a4ccefd09ca823dca1201e2b9e|0*19647*0xd986fd7175c8cf28cd774bcadde79966
+M/gray_bin_case_vect=21|0|vde|1583293628117|./../src/gray_bin_if_vect.vhd|0*22006*0x1b3bc4231c0468ca0e99b539f4d1891263eee65b|0*22721*0x3666052002612506830c83371aef600f
+M/gray_bin_loop=21|0|vde|1583294322887|./../src/gray_bin_loop.vhd|0*23360*0xff4b92386a438eadcdbb79c2bd3c7c472060af14|0*23611*0x3666052002612506830c83371aef600f
+R=./../src/gray_bin_case_vect.vhd|4
+Version=10.5.217.6767 (Windows)|0000000a789cd34d494a57d0353230b000000ec20272|33bc1f0135cdc64f35ce65aa6199de18257a08b95c9a80cfdbb2c82194e4e6f01679eb28f16145cc166561e089f8c306
+Version/gray_bin_case=10.5.217.6767 (Windows)|0000000a789cd34d494a57d0353230b000000ec20272|c135da5d15ba18121caf73147ec81ec627bb640b1a3e2e4b8f4f4d357f07ea505af62331e7f281acaa963d29db44793d
+Version/gray_bin_case_vect=10.5.217.6767 (Windows)|0000000a789cd34d494a57d0353230b000000ec20272|c135da5d15ba18121caf73147ec81ec673a50cccaf5418c9ca6cb881c204a56d4c85e77b7918763f4ed3b11e119db191
+Version/gray_bin_loop=10.5.217.6767 (Windows)|0000000a789cd34d494a57d0353230b000000ec20272|94c39c42f7c9feb549d6c6b8ff36296f3713774089357bb6fd40384dda558363bfeb78a20b5d33655499c7b663d83314
+
+[gray_bin_selfcheck_tb]
+A/tb_architecture=21|./../src/gray_bin_selfcheck_tb_vect.vhd|8|1*52183
+BinI32/tb_architecture=3*21885
+I=0*3818
+I/tb_architecture=0*23932
+M=11|0|vde|1583281869894|./../src/gray_bin_selfcheck_TB(3) (1).vhd|0*3453*0xb8e23e59c54d8cf5225c6f31135b92227132378f|0*3702*0xd986fd7175c8cf28cd774bcadde79966
+M/tb_architecture=21|0|vde|1583294580931|./../src/gray_bin_selfcheck_tb_vect.vhd|0*20913*0xed549e7c1aa24fd4cdf1624494b4d00917ae41c0|0*21568*0x3666052002612506830c83371aef600f
+R=./../src/gray_bin_selfcheck_TB(3) (1).vhd|8
+Version=10.5.217.6767 (Windows)|0000000a789cd34d494a57d0353230b000000ec20272|11db9a309674361cf008c5a1dde47466c5639a0a2614d8f061fafcbefa90d510691693985e1c9d7009d27248a10d3015
+Version/tb_architecture=10.5.217.6767 (Windows)|0000000a789cd34d494a57d0353230b000000ec20272|da2d76821309f33ed1264ca4678a936a8f84fef0fc5d0f10f1a8cfc2ad534bea5b597f95f170d0293dc1ae44248b8708
+
+[~MFT]
+0=2|0lab05.mgf|23932|20032
+1=2|1lab05.mgf|52183|50224
+3=2|3lab05.mgf|21885|20111
+
+[~U]
+gray_bin=11|0*19218|
+gray_bin_selfcheck_tb=11|0*3305|

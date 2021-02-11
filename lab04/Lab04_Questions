@@ -1,0 +1,45 @@
+1. What is the difference in the waveforms from the simulation of the two designs
+gray_bin_selected (Design Task 1) and gray_bin_selected_dc (Design Task 2)?
+What in your source files causes this difference?
+
+The difference was a stretch of zero in the output corresponding to the high value gray codes. The reason this is
+is because in my source file I deleted the high value graycodes and so they defaulted to the when others case - which I set to 0
+
+2. The testbench used in Design Task 2 tells you for which input combinations the outputs were in
+error. How could you modify that testbench so that it also tells you what the actual output was and
+what it should have been for each output that was incorrect?
+
+I could modify it do tell me what output it should have been by pluging in the expression for what each bit should have been
+Ex: 
+report "Error for input " & to_string((g3, g2, g1, g0)) & "\r\n" &
+" Output was: " & to_string(b) &"\r\n" & 
+" Output Should have been: " & 
+to_string(g3) & 
+to_string((g3 xor g2)) & 
+to_string((g3 xor g2) xor g1)) & 
+to_string(((g3 xor g2) xor g1) xor g0)))() & "."
+
+3. How could you modify the testbench used in Design Task 2 so that you do not get errors for the
+input combinations where you don’t care what the outputs are?
+
+I could reduce the length of the loop from 15 to 11. This cuts off the high value graycodes I do not care about.
+
+4. Compare the HDL Analyst hierarchical view of the design you synthesized for this Laboratory
+with the HDL Analyst hierarchical view of your design from Laboratory 3. Are the diagrams
+identical? If not, how do they differ? Are they functionally the same? If not, how do they differ
+functionally?
+
+
+
+
+5. Compare the pre-fit equations and post-fit equations from ispLEVER Classic for the design you
+synthesized for this laboratory with the equations from your design for Laboratory 3. Are the
+equations the same? If not, how do they differ?
+
+
+
+6. Explain the differences in the output values when input combinations that are not valid inputs
+to the decoder are applied to your functional simulation and to your timing simulation. What
+determined these output values for each of your designs? If the rotary encoder providing inputs to
+your design generates only Gray codes for angles from 0 up to 270 degrees, does the design you
+synthesized meet the design requirements?

@@ -1,0 +1,15 @@
+8
+~E 1 "../src/lab02.vhm" 20 AND2
+~A 1 "../src/lab02.vhm" 27 beh
+~E 1 "../src/lab02.vhm" 132 half_adder
+~A 1 "../src/lab02.vhm" 140 beh
+~E 1 "../src/lab02.vhm" 43 IBUF
+~A 1 "../src/lab02.vhm" 49 beh
+~E 1 "../src/lab02.vhm" 65 INV
+~A 1 "../src/lab02.vhm" 71 beh
+~E 1 "../src/lab02.vhm" 87 OBUF
+~A 1 "../src/lab02.vhm" 93 beh
+~E 1 "../src/half_adder_tb.vhd" 6 testbench
+~A 1 "../src/half_adder_tb.vhd" 9 behavior
+~E 1 "../src/lab02.vhm" 109 XOR2
+~A 1 "../src/lab02.vhm" 116 beh

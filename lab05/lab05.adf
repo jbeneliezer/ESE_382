@@ -1,0 +1,64 @@
+[Project]
+Current Flow=Generic
+VCS=0
+version=4
+Current Config=compile
+
+[Configurations]
+compile=lab05
+
+[Library]
+lab05=.\lab05\lab05.lib
+
+[Settings]
+AccessRead=0
+AccessReadWrite=0
+AccessACCB=0
+AccessACCR=0
+AccessReadWriteSLP=0
+AccessReadTopLevel=1
+DisableC=1
+ENABLE_ADV_DATAFLOW=0
+FLOW_TYPE=HDL
+LANGUAGE=VHDL
+REFRESH_FLOW=1
+FLOWTOOLS=NONE
+FAMILY=
+fileopenfolder=C:\Users\hp\Downloads
+
+[LocalVerilogSets]
+EnableSLP=1
+EnableDebug=0
+
+[LocalVhdlSets]
+CompileWithDebug=1
+NetlistCompilation=1
+EnableVHDL93Key=0
+EnableVHDL2002Key=0
+EnableVHDL2008Key=1
+DisableVHDL87Key=0
+Syntax RelaxLRM=0
+MaxErrorsKey=100
+OptimizationLevel=3
+DisableRangeChecks=0
+ProtectLevel=0
+IncrementalCompilation=0
+AdditionalOptions=
+
+[$LibMap$]
+lab05=.
+Active_lib=
+
+[Files]
+/gray_bin_case_waveform.asdb=-1
+/gray_bin_case_waveform.awc=-1
+/gray_bin_selfcheck_tb_vect.vhd=-1
+/gray_bin_loop.vhd=-1
+
+[Files.Data]
+.\src\gray_bin_case_waveform.asdb=Accelerated Waveform File
+.\src\gray_bin_case_waveform.awc=Accelerated Waveform Configuration
+.\src\gray_bin_selfcheck_tb_vect.vhd=VHDL Source Code
+.\src\gray_bin_if_vect.vhd=VHDL Source Code
+.\src\gray_bin_loop.vhd=VHDL Source Code
+

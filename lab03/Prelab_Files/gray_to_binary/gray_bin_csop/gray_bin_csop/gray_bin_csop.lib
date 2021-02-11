@@ -1,0 +1,36 @@
+timestamp=1582079125174
+
+[~A]
+ModifyID=9
+Version=74
+
+[gray_bin]
+A/dataflow=21|./../src/gray_bin_cpos.vhd|12|1*6021
+BinI32/dataflow=3*1984
+I=0*1195
+I/dataflow=0*5704
+M=11|0|vde|1582076014048|./../src/gray_bin_csop.vhd|0*860*0xb3d9bbbaddd96c847d1402c6f21cca4c90581d64|0*1107*0x23b75c12e3e89f2ef000564498faa8c2
+M/dataflow=21|0|vde|1582079089218|./../src/gray_bin_cpos.vhd|0*5099*0x09f49a66a6052b5538ce2b21316de3fcfbd32297|0*5604*0x20116f55b147878295aeff36dce7fc50
+R=./../src/gray_bin_csop.vhd|4
+Version=10.5.217.6767 (Windows)|00000003789cd3f5370600015b00b0|33bc1f0135cdc64f35ce65aa6199de18257a08b95c9a80cfdbb2c82194e4e6f08500132e17c4c0cfb1f2bb5a5f4760e7
+Version/dataflow=10.5.217.6767 (Windows)|00000003789cd3f5370600015b00b0|0f4ede524a2b2b6a78d09660b7f488344a07c75f2fa40568c09e9134eae7466bf780ad4cf6e6e4333eb44a2b4f6a087e
+
+[gray_bin_tb]
+A/non_self_checking=21|./../src/gray_bin_TB.vhd|10|1*7136
+BinI32/non_self_checking=3*2589
+I=0*418
+I/non_self_checking=0*5915
+M=11|0|vde|1582075865930|./../src/gray_bin_TB.vhd|0*128*0x7905489ba43b5b603cb5552e4cd85200e1d42545|0*329*0x23b75c12e3e89f2ef000564498faa8c2
+M/non_self_checking=21|0|vde|1582079125088|./../src/gray_bin_TB.vhd|0*2204*0x5987a28e920769499d459b5b15090e8004213d9d|0*2772*0x20116f55b147878295aeff36dce7fc50
+R=./../src/gray_bin_TB.vhd|7
+Version=10.5.217.6767 (Windows)|00000003789cd3f5370600015b00b0|47ce5b639412f04d175682248be7b0753ada57e60dc64ab915aa91858ab8931ac75152c0f20d513041630128932723c0
+Version/non_self_checking=10.5.217.6767 (Windows)|00000003789cd3f5370600015b00b0|8d64b565a9285ce07a3ff62d3a86dcbd614b57e38fe9e5dcd7f585b446fa08ac8cfdc141e3f88c75ef9f8c0b845606a9
+
+[~MFT]
+0=2|0gray_bin_csop.mgf|5915|3024
+1=2|1gray_bin_csop.mgf|7136|6021
+3=2|3gray_bin_csop.mgf|2589|1984
+
+[~U]
+gray_bin=11|0*662|
+gray_bin_tb=11|0*0|

@@ -1,0 +1,1164 @@
+# Design: Design lab05 already active.
+# 
+# DESIGN: Default Design Language: VHDL
+# DESIGN: Default BDE Language: VHDL
+# DESIGN: Flow Manager: Not Defined
+acom -reorder -O3 -e 100 -work lab05 -2002  $dsn/src/gray_bin_case.vhd
+# Warning: DAGGEN_0523: The source is compiled without the -dbg switch. Line breakpoints and assertion debug will not be available.
+# File: c:\My_Designs\lab05\lab05\src\gray_bin_case.vhd
+# Compile Entity "gray_bin"
+# Compile Architecture "gray_bin_case" of Entity "gray_bin"
+# Error: COMP96_0019: gray_bin_case.vhd : (13, 1): Keyword 'begin' expected.
+# Error: COMP96_0016: gray_bin_case.vhd : (13, 10): Design unit declaration expected.
+# Compile failure 2 Errors 0 Warnings  Analysis time :  63.0 [ms]
+acom -O3 -e 100 -work lab05 -2002  $dsn/src/gray_bin_case.vhd
+# Warning: DAGGEN_0523: The source is compiled without the -dbg switch. Line breakpoints and assertion debug will not be available.
+# File: c:\My_Designs\lab05\lab05\src\gray_bin_case.vhd
+# Compile Entity "gray_bin"
+# Compile Architecture "gray_bin_case" of Entity "gray_bin"
+# Error: COMP96_0019: gray_bin_case.vhd : (13, 1): Keyword 'begin' expected.
+# Error: COMP96_0016: gray_bin_case.vhd : (13, 9): Design unit declaration expected.
+# Compile failure 2 Errors 0 Warnings  Analysis time :  15.0 [ms]
+acom -O3 -e 100 -work lab05 -2002  $dsn/src/gray_bin_case.vhd
+# Warning: DAGGEN_0523: The source is compiled without the -dbg switch. Line breakpoints and assertion debug will not be available.
+# File: c:\My_Designs\lab05\lab05\src\gray_bin_case.vhd
+# Compile Entity "gray_bin"
+# Compile Architecture "gray_bin_case" of Entity "gray_bin"
+# Error: COMP96_0019: gray_bin_case.vhd : (13, 1): Keyword 'begin' expected.
+# Error: COMP96_0016: gray_bin_case.vhd : (13, 9): Design unit declaration expected.
+# Compile failure 2 Errors 0 Warnings  Analysis time :  16.0 [ms]
+acom -O3 -e 100 -work lab05 -2002  $dsn/src/gray_bin_case.vhd
+# Warning: DAGGEN_0523: The source is compiled without the -dbg switch. Line breakpoints and assertion debug will not be available.
+# File: c:\My_Designs\lab05\lab05\src\gray_bin_case.vhd
+# Compile Entity "gray_bin"
+# Compile Architecture "gray_bin_case" of Entity "gray_bin"
+# Error: COMP96_0019: gray_bin_case.vhd : (13, 1): Keyword 'begin' expected.
+# Error: COMP96_0016: gray_bin_case.vhd : (13, 9): Design unit declaration expected.
+# Compile failure 2 Errors 0 Warnings  Analysis time :  32.0 [ms]
+acom -O3 -e 100 -work lab05 -2002  $dsn/src/gray_bin_case.vhd
+# Warning: DAGGEN_0523: The source is compiled without the -dbg switch. Line breakpoints and assertion debug will not be available.
+# File: c:\My_Designs\lab05\lab05\src\gray_bin_case.vhd
+# Compile Entity "gray_bin"
+# Compile Architecture "gray_bin_case" of Entity "gray_bin"
+# Error: COMP96_0019: gray_bin_case.vhd : (13, 1): Keyword 'begin' expected.
+# Error: COMP96_0016: gray_bin_case.vhd : (13, 2): Design unit declaration expected.
+# Compile failure 2 Errors 0 Warnings  Analysis time :  31.0 [ms]
+acom -O3 -e 100 -work lab05 -2002  $dsn/src/gray_bin_case.vhd
+# Warning: DAGGEN_0523: The source is compiled without the -dbg switch. Line breakpoints and assertion debug will not be available.
+# File: c:\My_Designs\lab05\lab05\src\gray_bin_case.vhd
+# Compile Entity "gray_bin"
+# Compile Architecture "gray_bin_case" of Entity "gray_bin"
+# Error: COMP96_0019: gray_bin_case.vhd : (13, 1): Keyword 'begin' expected.
+# Error: COMP96_0016: gray_bin_case.vhd : (13, 2): Design unit declaration expected.
+# Compile failure 2 Errors 0 Warnings  Analysis time :  31.0 [ms]
+acom -O3 -e 100 -work lab05 -2002  $dsn/src/gray_bin_case.vhd
+# Warning: DAGGEN_0523: The source is compiled without the -dbg switch. Line breakpoints and assertion debug will not be available.
+# File: c:\My_Designs\lab05\lab05\src\gray_bin_case.vhd
+# Compile Entity "gray_bin"
+# Compile Architecture "gray_bin_case" of Entity "gray_bin"
+# Error: COMP96_0019: gray_bin_case.vhd : (13, 1): Keyword 'begin' expected.
+# Error: COMP96_0016: gray_bin_case.vhd : (13, 2): Design unit declaration expected.
+# Compile failure 2 Errors 0 Warnings  Analysis time :  31.0 [ms]
+acom -O3 -e 100 -work lab05 -2002  $dsn/src/gray_bin_case.vhd
+# Warning: DAGGEN_0523: The source is compiled without the -dbg switch. Line breakpoints and assertion debug will not be available.
+# File: c:\My_Designs\lab05\lab05\src\gray_bin_case.vhd
+# Compile Entity "gray_bin"
+# Compile Architecture "gray_bin_case" of Entity "gray_bin"
+# A feature of VHDL 2008 has been detected. Use the -2008 argument of the vcom command.
+# Error: COMP96_0019: gray_bin_case.vhd : (21, 2): Keyword 'end' expected.
+# Error: COMP96_0016: gray_bin_case.vhd : (21, 7): Design unit declaration expected.
+# Compile failure 2 Errors 0 Warnings  Analysis time :  31.0 [ms]
+acom -O3 -e 100 -work lab05 -2002  $dsn/src/gray_bin_case.vhd
+# Warning: DAGGEN_0523: The source is compiled without the -dbg switch. Line breakpoints and assertion debug will not be available.
+# File: c:\My_Designs\lab05\lab05\src\gray_bin_case.vhd
+# Compile Entity "gray_bin"
+# Compile Architecture "gray_bin_case" of Entity "gray_bin"
+# A feature of VHDL 2008 has been detected. Use the -2008 argument of the vcom command.
+# Error: COMP96_0019: gray_bin_case.vhd : (15, 2): Keyword 'end' expected.
+# Error: COMP96_0016: gray_bin_case.vhd : (15, 7): Design unit declaration expected.
+# Compile failure 2 Errors 0 Warnings  Analysis time :  46.0 [ms]
+acom -O3 -e 100 -work lab05 -2002  $dsn/src/gray_bin_case.vhd
+# Warning: DAGGEN_0523: The source is compiled without the -dbg switch. Line breakpoints and assertion debug will not be available.
+# File: c:\My_Designs\lab05\lab05\src\gray_bin_case.vhd
+# Compile Entity "gray_bin"
+# Compile Architecture "gray_bin_case" of Entity "gray_bin"
+# A feature of VHDL 2008 has been detected. Use the -2008 argument of the vcom command.
+# Error: COMP96_0019: gray_bin_case.vhd : (16, 2): Keyword 'end' expected.
+# Error: COMP96_0016: gray_bin_case.vhd : (16, 7): Design unit declaration expected.
+# Compile failure 2 Errors 0 Warnings  Analysis time :  31.0 [ms]
+acom -O3 -e 100 -work lab05 -2002  $dsn/src/gray_bin_case.vhd
+# Warning: DAGGEN_0523: The source is compiled without the -dbg switch. Line breakpoints and assertion debug will not be available.
+# File: c:\My_Designs\lab05\lab05\src\gray_bin_case.vhd
+# Compile Entity "gray_bin"
+# Compile Architecture "gray_bin_case" of Entity "gray_bin"
+# Error: COMP96_0019: gray_bin_case.vhd : (15, 3): Keyword 'begin' expected.
+# Error: COMP96_0015: gray_bin_case.vhd : (16, 6): ';' expected.
+# Error: COMP96_0016: gray_bin_case.vhd : (16, 14): Design unit declaration expected.
+# Compile failure 3 Errors 0 Warnings  Analysis time :  31.0 [ms]
+acom -O3 -e 100 -work lab05 -2002  $dsn/src/gray_bin_case.vhd
+# Warning: DAGGEN_0523: The source is compiled without the -dbg switch. Line breakpoints and assertion debug will not be available.
+# File: c:\My_Designs\lab05\lab05\src\gray_bin_case.vhd
+# Compile Entity "gray_bin"
+# Compile Architecture "gray_bin_case" of Entity "gray_bin"
+# Error: COMP96_0019: gray_bin_case.vhd : (15, 3): Keyword 'begin' expected.
+# Error: COMP96_0015: gray_bin_case.vhd : (16, 6): ';' expected.
+# Error: COMP96_0016: gray_bin_case.vhd : (16, 14): Design unit declaration expected.
+# Compile failure 3 Errors 0 Warnings  Analysis time :  32.0 [ms]
+acom -O3 -e 100 -work lab05 -2002  $dsn/src/gray_bin_case.vhd
+# Warning: DAGGEN_0523: The source is compiled without the -dbg switch. Line breakpoints and assertion debug will not be available.
+# File: c:\My_Designs\lab05\lab05\src\gray_bin_case.vhd
+# Compile Entity "gray_bin"
+# Compile Architecture "gray_bin_case" of Entity "gray_bin"
+# Error: COMP96_0019: gray_bin_case.vhd : (13, 2): Keyword 'end' expected.
+# Error: COMP96_0016: gray_bin_case.vhd : (13, 11): Design unit declaration expected.
+# Compile failure 2 Errors 0 Warnings  Analysis time :  31.0 [ms]
+acom -dbg -e 100 -work lab05 -2008  $dsn/src/gray_bin_case.vhd
+# File: c:\My_Designs\lab05\lab05\src\gray_bin_case.vhd
+# Compile Entity "gray_bin"
+# Compile Architecture "gray_bin_case" of Entity "gray_bin"
+# Error: COMP96_0301: gray_bin_case.vhd : (19, 2): The choice 'others' must be present when all alternatives are not covered.
+# Compile failure 1 Errors 0 Warnings  Analysis time :  31.0 [ms]
+acom -dbg -e 100 -work lab05 -2008  $dsn/src/gray_bin_case.vhd
+# File: c:\My_Designs\lab05\lab05\src\gray_bin_case.vhd
+# Compile Entity "gray_bin"
+# Compile Architecture "gray_bin_case" of Entity "gray_bin"
+# Compile success 0 Errors 0 Warnings  Analysis time :  62.0 [ms]
+acom -dbg -e 100 -work lab05 -2008  $dsn/src/gray_bin_case.vhd "$dsn/src/gray_bin_selfcheck_TB(3) (1).vhd"
+# File: c:\My_Designs\lab05\lab05\src\gray_bin_case.vhd
+# Compile Entity "gray_bin"
+# Compile Architecture "gray_bin_case" of Entity "gray_bin"
+# File: c:\My_Designs\lab05\lab05\src\gray_bin_selfcheck_TB(3) (1).vhd
+# Compile Entity "gray_bin_selfcheck_tb"
+# Compile Architecture "tb_architecture" of Entity "gray_bin_selfcheck_tb"
+# Error: COMP96_0078: gray_bin_selfcheck_TB(3) (1).vhd : (25, 4): Unknown identifier "b3".
+# Error: COMP96_0078: gray_bin_selfcheck_TB(3) (1).vhd : (25, 14): Unknown identifier "b2".
+# Error: COMP96_0078: gray_bin_selfcheck_TB(3) (1).vhd : (25, 24): Unknown identifier "b1".
+# Error: COMP96_0078: gray_bin_selfcheck_TB(3) (1).vhd : (25, 34): Unknown identifier "b0".
+# Error: COMP96_0133: gray_bin_selfcheck_TB(3) (1).vhd : (25, 4): Cannot find object declaration.
+# Error: COMP96_0112: gray_bin_selfcheck_TB(3) (1).vhd : (25, 4): "b3" does not match the formal name.
+# Compile failure 6 Errors 0 Warnings  Analysis time :  62.0 [ms]
+acom -dbg -e 100 -work lab05 -2008  $dsn/src/gray_bin_case.vhd "$dsn/src/gray_bin_selfcheck_TB(3) (1).vhd"
+# File: c:\My_Designs\lab05\lab05\src\gray_bin_case.vhd
+# Compile Entity "gray_bin"
+# Compile Architecture "gray_bin_case" of Entity "gray_bin"
+# File: c:\My_Designs\lab05\lab05\src\gray_bin_selfcheck_TB(3) (1).vhd
+# Compile Entity "gray_bin_selfcheck_tb"
+# Compile Architecture "tb_architecture" of Entity "gray_bin_selfcheck_tb"
+# Compile success 0 Errors 0 Warnings  Analysis time :  78.0 [ms]
+# ELBREAD: Elaboration process.
+# ELBREAD: Elaboration time 0.0 [s].
+asim -O5 +access +r +m+gray_bin_selfcheck_tb gray_bin_selfcheck_tb tb_architecture
+# ELBREAD: Elaboration process.
+# ELBREAD: Elaboration time 0.0 [s].
+# VSIM: Stack memory: 32MB
+# VSIM: Retval memory: 32MB
+# 
+# KERNEL: Main thread initiated.
+# KERNEL: Kernel process initialization phase.
+# KERNEL: Time resolution set to 1ps.
+# ELAB2: Elaboration final pass...
+# ELAB2: Create instances ...
+# ELAB2: Create instances complete.
+# SLP: Started
+# SLP: Elaboration phase ...
+# SLP: Elaboration phase ... skipped, nothing to simulate in SLP mode : 0.0 [s]
+# SLP: Finished : 0.0 [s]
+# ELAB2: Elaboration final pass complete - time: 0.1 [s].
+# KERNEL: Warning: You are using the Active-HDL Student Edition. The performance of simulation is running at a reduced rate.
+# KERNEL: Warning: Contact Aldec for available upgrade options - sales@aldec.com.
+# KERNEL: Kernel process initialization done.
+# Allocation: Simulator allocated 6070 kB (elbread=1280 elab2=4651 kernel=139 sdf=0)
+# KERNEL: ASDB file was created in location c:\My_Designs\lab05\lab05\src\wave.asdb
+#  7:33 PM, Tuesday, March 3, 2020
+#  Simulation has been initialized
+# 5 signal(s) traced.
+# Waveform file 'untitled.awc' connected to 'c:/My_Designs/lab05/lab05/src/wave.asdb'.
+run @300ns
+# KERNEL: stopped at time: 300 ns
+# Waveform file 'c:/My_Designs/lab05/lab05/src/gray_bin_case_waveform.awc' connected to 'c:/My_Designs/lab05/lab05/src/gray_bin_case_waveform.asdb'.
+# WAVEFORM: 4 signal(s) inserted to virtual bus 'VBus0'.
+# Adding file c:\My_Designs\lab05\lab05\src\gray_bin_case_waveform.asdb ... Done
+# Adding file c:\My_Designs\lab05\lab05\src\gray_bin_case_waveform.awc ... Done
+acom -dbg -e 100 -work lab05 -2008  $dsn/src/gray_bin_case.vhd "$dsn/src/gray_bin_selfcheck_TB(3) (1).vhd"
+# File: c:\My_Designs\lab05\lab05\src\gray_bin_case.vhd
+# Compile Entity "gray_bin"
+# Error: COMP96_0018: gray_bin_case.vhd : (8, 1): Identifier expected.
+# Error: COMP96_0015: gray_bin_case.vhd : (8, 1): ')' expected.
+# Error: COMP96_0015: gray_bin_case.vhd : (8, 1): ';' expected.
+# Error: COMP96_0019: gray_bin_case.vhd : (8, 5): Keyword 'end' expected.
+# Compile Architecture "gray_bin_case" of Entity "gray_bin"
+# Error: COMP96_0078: gray_bin_case.vhd : (18, 15): Unknown identifier "b3".
+# Error: COMP96_0078: gray_bin_case.vhd : (18, 19): Unknown identifier "b2".
+# Error: COMP96_0078: gray_bin_case.vhd : (18, 23): Unknown identifier "b1".
+# Error: COMP96_0078: gray_bin_case.vhd : (18, 27): Unknown identifier "b0".
+# Error: COMP96_0133: gray_bin_case.vhd : (18, 15): Cannot find object declaration.
+# Error: COMP96_0079: gray_bin_case.vhd : (18, 14): Invalid aggregate.
+# Error: COMP96_0077: gray_bin_case.vhd : (18, 14): Undefined type of expression. Expected type 'STD_ULOGIC_VECTOR'.
+# Error: COMP96_0123: gray_bin_case.vhd : (21, 19): Variable or constant cannot be the target of a signal assignment.
+# Error: COMP96_0143: gray_bin_case.vhd : (21, 19): Object "bin_vec" cannot be written
+# Error: COMP96_0123: gray_bin_case.vhd : (22, 19): Variable or constant cannot be the target of a signal assignment.
+# Error: COMP96_0143: gray_bin_case.vhd : (22, 19): Object "bin_vec" cannot be written
+# Error: COMP96_0123: gray_bin_case.vhd : (23, 19): Variable or constant cannot be the target of a signal assignment.
+# Error: COMP96_0143: gray_bin_case.vhd : (23, 19): Object "bin_vec" cannot be written
+# Error: COMP96_0123: gray_bin_case.vhd : (24, 19): Variable or constant cannot be the target of a signal assignment.
+# Error: COMP96_0143: gray_bin_case.vhd : (24, 19): Object "bin_vec" cannot be written
+# Error: COMP96_0123: gray_bin_case.vhd : (25, 19): Variable or constant cannot be the target of a signal assignment.
+# Error: COMP96_0143: gray_bin_case.vhd : (25, 19): Object "bin_vec" cannot be written
+# Error: COMP96_0123: gray_bin_case.vhd : (26, 19): Variable or constant cannot be the target of a signal assignment.
+# Error: COMP96_0143: gray_bin_case.vhd : (26, 19): Object "bin_vec" cannot be written
+# Error: COMP96_0123: gray_bin_case.vhd : (27, 19): Variable or constant cannot be the target of a signal assignment.
+# Error: COMP96_0143: gray_bin_case.vhd : (27, 19): Object "bin_vec" cannot be written
+# Error: COMP96_0123: gray_bin_case.vhd : (28, 19): Variable or constant cannot be the target of a signal assignment.
+# Error: COMP96_0143: gray_bin_case.vhd : (28, 19): Object "bin_vec" cannot be written
+# Error: COMP96_0123: gray_bin_case.vhd : (29, 19): Variable or constant cannot be the target of a signal assignment.
+# Error: COMP96_0143: gray_bin_case.vhd : (29, 19): Object "bin_vec" cannot be written
+# Error: COMP96_0123: gray_bin_case.vhd : (30, 19): Variable or constant cannot be the target of a signal assignment.
+# Error: COMP96_0143: gray_bin_case.vhd : (30, 19): Object "bin_vec" cannot be written
+# Error: COMP96_0123: gray_bin_case.vhd : (31, 19): Variable or constant cannot be the target of a signal assignment.
+# Error: COMP96_0143: gray_bin_case.vhd : (31, 19): Object "bin_vec" cannot be written
+# Error: COMP96_0123: gray_bin_case.vhd : (32, 19): Variable or constant cannot be the target of a signal assignment.
+# Error: COMP96_0143: gray_bin_case.vhd : (32, 19): Object "bin_vec" cannot be written
+# Error: COMP96_0123: gray_bin_case.vhd : (33, 19): Variable or constant cannot be the target of a signal assignment.
+# Error: COMP96_0143: gray_bin_case.vhd : (33, 19): Object "bin_vec" cannot be written
+# Error: COMP96_0123: gray_bin_case.vhd : (34, 19): Variable or constant cannot be the target of a signal assignment.
+# Error: COMP96_0143: gray_bin_case.vhd : (34, 19): Object "bin_vec" cannot be written
+# Error: COMP96_0123: gray_bin_case.vhd : (35, 19): Variable or constant cannot be the target of a signal assignment.
+# Error: COMP96_0143: gray_bin_case.vhd : (35, 19): Object "bin_vec" cannot be written
+# Error: COMP96_0123: gray_bin_case.vhd : (36, 19): Variable or constant cannot be the target of a signal assignment.
+# Error: COMP96_0143: gray_bin_case.vhd : (36, 19): Object "bin_vec" cannot be written
+# Error: COMP96_0123: gray_bin_case.vhd : (37, 19): Variable or constant cannot be the target of a signal assignment.
+# Error: COMP96_0143: gray_bin_case.vhd : (37, 19): Object "bin_vec" cannot be written
+# File: c:\My_Designs\lab05\lab05\src\gray_bin_selfcheck_TB(3) (1).vhd
+# Compile Entity "gray_bin_selfcheck_tb"
+# Compile Architecture "tb_architecture" of Entity "gray_bin_selfcheck_tb"
+# Compile failure 45 Errors 0 Warnings  Analysis time :  62.0 [ms]
+acom -dbg -e 100 -work lab05 -2008  $dsn/src/gray_bin_case.vhd "$dsn/src/gray_bin_selfcheck_TB(3) (1).vhd"
+# File: c:\My_Designs\lab05\lab05\src\gray_bin_case.vhd
+# Compile Entity "gray_bin"
+# Compile Architecture "gray_bin_case" of Entity "gray_bin"
+# Error: COMP96_0123: gray_bin_case.vhd : (21, 19): Variable or constant cannot be the target of a signal assignment.
+# Error: COMP96_0143: gray_bin_case.vhd : (21, 19): Object "bin_vec" cannot be written
+# Error: COMP96_0123: gray_bin_case.vhd : (22, 19): Variable or constant cannot be the target of a signal assignment.
+# Error: COMP96_0143: gray_bin_case.vhd : (22, 19): Object "bin_vec" cannot be written
+# Error: COMP96_0123: gray_bin_case.vhd : (23, 19): Variable or constant cannot be the target of a signal assignment.
+# Error: COMP96_0143: gray_bin_case.vhd : (23, 19): Object "bin_vec" cannot be written
+# Error: COMP96_0123: gray_bin_case.vhd : (24, 19): Variable or constant cannot be the target of a signal assignment.
+# Error: COMP96_0143: gray_bin_case.vhd : (24, 19): Object "bin_vec" cannot be written
+# Error: COMP96_0123: gray_bin_case.vhd : (25, 19): Variable or constant cannot be the target of a signal assignment.
+# Error: COMP96_0143: gray_bin_case.vhd : (25, 19): Object "bin_vec" cannot be written
+# Error: COMP96_0123: gray_bin_case.vhd : (26, 19): Variable or constant cannot be the target of a signal assignment.
+# Error: COMP96_0143: gray_bin_case.vhd : (26, 19): Object "bin_vec" cannot be written
+# Error: COMP96_0123: gray_bin_case.vhd : (27, 19): Variable or constant cannot be the target of a signal assignment.
+# Error: COMP96_0143: gray_bin_case.vhd : (27, 19): Object "bin_vec" cannot be written
+# Error: COMP96_0123: gray_bin_case.vhd : (28, 19): Variable or constant cannot be the target of a signal assignment.
+# Error: COMP96_0143: gray_bin_case.vhd : (28, 19): Object "bin_vec" cannot be written
+# Error: COMP96_0123: gray_bin_case.vhd : (29, 19): Variable or constant cannot be the target of a signal assignment.
+# Error: COMP96_0143: gray_bin_case.vhd : (29, 19): Object "bin_vec" cannot be written
+# Error: COMP96_0123: gray_bin_case.vhd : (30, 19): Variable or constant cannot be the target of a signal assignment.
+# Error: COMP96_0143: gray_bin_case.vhd : (30, 19): Object "bin_vec" cannot be written
+# Error: COMP96_0123: gray_bin_case.vhd : (31, 19): Variable or constant cannot be the target of a signal assignment.
+# Error: COMP96_0143: gray_bin_case.vhd : (31, 19): Object "bin_vec" cannot be written
+# Error: COMP96_0123: gray_bin_case.vhd : (32, 19): Variable or constant cannot be the target of a signal assignment.
+# Error: COMP96_0143: gray_bin_case.vhd : (32, 19): Object "bin_vec" cannot be written
+# Error: COMP96_0123: gray_bin_case.vhd : (33, 19): Variable or constant cannot be the target of a signal assignment.
+# Error: COMP96_0143: gray_bin_case.vhd : (33, 19): Object "bin_vec" cannot be written
+# Error: COMP96_0123: gray_bin_case.vhd : (34, 19): Variable or constant cannot be the target of a signal assignment.
+# Error: COMP96_0143: gray_bin_case.vhd : (34, 19): Object "bin_vec" cannot be written
+# Error: COMP96_0123: gray_bin_case.vhd : (35, 19): Variable or constant cannot be the target of a signal assignment.
+# Error: COMP96_0143: gray_bin_case.vhd : (35, 19): Object "bin_vec" cannot be written
+# Error: COMP96_0123: gray_bin_case.vhd : (36, 19): Variable or constant cannot be the target of a signal assignment.
+# Error: COMP96_0143: gray_bin_case.vhd : (36, 19): Object "bin_vec" cannot be written
+# Error: COMP96_0123: gray_bin_case.vhd : (37, 19): Variable or constant cannot be the target of a signal assignment.
+# Error: COMP96_0143: gray_bin_case.vhd : (37, 19): Object "bin_vec" cannot be written
+# File: c:\My_Designs\lab05\lab05\src\gray_bin_selfcheck_TB(3) (1).vhd
+# Compile Entity "gray_bin_selfcheck_tb"
+# Compile Architecture "tb_architecture" of Entity "gray_bin_selfcheck_tb"
+# Error: COMP96_0078: gray_bin_selfcheck_TB(3) (1).vhd : (23, 4): Unknown identifier "b".
+# Error: COMP96_0133: gray_bin_selfcheck_TB(3) (1).vhd : (23, 4): Cannot find object declaration.
+# Error: COMP96_0112: gray_bin_selfcheck_TB(3) (1).vhd : (23, 4): "b" does not match the formal name.
+# Compile failure 37 Errors 0 Warnings  Analysis time :  47.0 [ms]
+acom -dbg -e 100 -work lab05 -2008  $dsn/src/gray_bin_case.vhd
+# File: c:\My_Designs\lab05\lab05\src\gray_bin_case.vhd
+# Compile Entity "gray_bin"
+# Compile Architecture "gray_bin_case" of Entity "gray_bin"
+# Error: COMP96_0123: gray_bin_case.vhd : (21, 19): Variable or constant cannot be the target of a signal assignment.
+# Error: COMP96_0143: gray_bin_case.vhd : (21, 19): Object "bin_vec" cannot be written
+# Error: COMP96_0123: gray_bin_case.vhd : (22, 19): Variable or constant cannot be the target of a signal assignment.
+# Error: COMP96_0143: gray_bin_case.vhd : (22, 19): Object "bin_vec" cannot be written
+# Error: COMP96_0123: gray_bin_case.vhd : (23, 19): Variable or constant cannot be the target of a signal assignment.
+# Error: COMP96_0143: gray_bin_case.vhd : (23, 19): Object "bin_vec" cannot be written
+# Error: COMP96_0123: gray_bin_case.vhd : (24, 19): Variable or constant cannot be the target of a signal assignment.
+# Error: COMP96_0143: gray_bin_case.vhd : (24, 19): Object "bin_vec" cannot be written
+# Error: COMP96_0123: gray_bin_case.vhd : (25, 19): Variable or constant cannot be the target of a signal assignment.
+# Error: COMP96_0143: gray_bin_case.vhd : (25, 19): Object "bin_vec" cannot be written
+# Error: COMP96_0123: gray_bin_case.vhd : (26, 19): Variable or constant cannot be the target of a signal assignment.
+# Error: COMP96_0143: gray_bin_case.vhd : (26, 19): Object "bin_vec" cannot be written
+# Error: COMP96_0123: gray_bin_case.vhd : (27, 19): Variable or constant cannot be the target of a signal assignment.
+# Error: COMP96_0143: gray_bin_case.vhd : (27, 19): Object "bin_vec" cannot be written
+# Error: COMP96_0123: gray_bin_case.vhd : (28, 19): Variable or constant cannot be the target of a signal assignment.
+# Error: COMP96_0143: gray_bin_case.vhd : (28, 19): Object "bin_vec" cannot be written
+# Error: COMP96_0123: gray_bin_case.vhd : (29, 19): Variable or constant cannot be the target of a signal assignment.
+# Error: COMP96_0143: gray_bin_case.vhd : (29, 19): Object "bin_vec" cannot be written
+# Error: COMP96_0123: gray_bin_case.vhd : (30, 19): Variable or constant cannot be the target of a signal assignment.
+# Error: COMP96_0143: gray_bin_case.vhd : (30, 19): Object "bin_vec" cannot be written
+# Error: COMP96_0123: gray_bin_case.vhd : (31, 19): Variable or constant cannot be the target of a signal assignment.
+# Error: COMP96_0143: gray_bin_case.vhd : (31, 19): Object "bin_vec" cannot be written
+# Error: COMP96_0123: gray_bin_case.vhd : (32, 19): Variable or constant cannot be the target of a signal assignment.
+# Error: COMP96_0143: gray_bin_case.vhd : (32, 19): Object "bin_vec" cannot be written
+# Error: COMP96_0123: gray_bin_case.vhd : (33, 19): Variable or constant cannot be the target of a signal assignment.
+# Error: COMP96_0143: gray_bin_case.vhd : (33, 19): Object "bin_vec" cannot be written
+# Error: COMP96_0123: gray_bin_case.vhd : (34, 19): Variable or constant cannot be the target of a signal assignment.
+# Error: COMP96_0143: gray_bin_case.vhd : (34, 19): Object "bin_vec" cannot be written
+# Error: COMP96_0123: gray_bin_case.vhd : (35, 19): Variable or constant cannot be the target of a signal assignment.
+# Error: COMP96_0143: gray_bin_case.vhd : (35, 19): Object "bin_vec" cannot be written
+# Error: COMP96_0123: gray_bin_case.vhd : (36, 19): Variable or constant cannot be the target of a signal assignment.
+# Error: COMP96_0143: gray_bin_case.vhd : (36, 19): Object "bin_vec" cannot be written
+# Error: COMP96_0123: gray_bin_case.vhd : (37, 19): Variable or constant cannot be the target of a signal assignment.
+# Error: COMP96_0143: gray_bin_case.vhd : (37, 19): Object "bin_vec" cannot be written
+# Compile failure 34 Errors 0 Warnings  Analysis time :  16.0 [ms]
+acom -dbg -e 100 -work lab05 -2008  $dsn/src/gray_bin_case.vhd "$dsn/src/gray_bin_selfcheck_TB(3) (1).vhd"
+# File: c:\My_Designs\lab05\lab05\src\gray_bin_case.vhd
+# Compile Entity "gray_bin"
+# Compile Architecture "gray_bin_case" of Entity "gray_bin"
+# Error: COMP96_0329: gray_bin_case.vhd : (17, 3): Generate statement must have a label.
+# Error: COMP96_0019: gray_bin_case.vhd : (17, 19): Keyword 'generate' expected.
+# Error: COMP96_0019: gray_bin_case.vhd : (19, 4): Keyword 'end' expected.
+# Error: COMP96_0016: gray_bin_case.vhd : (19, 9): Design unit declaration expected.
+# File: c:\My_Designs\lab05\lab05\src\gray_bin_selfcheck_TB(3) (1).vhd
+# Compile Entity "gray_bin_selfcheck_tb"
+# Compile Architecture "tb_architecture" of Entity "gray_bin_selfcheck_tb"
+# Error: COMP96_0078: gray_bin_selfcheck_TB(3) (1).vhd : (23, 4): Unknown identifier "b".
+# Error: COMP96_0133: gray_bin_selfcheck_TB(3) (1).vhd : (23, 4): Cannot find object declaration.
+# Error: COMP96_0112: gray_bin_selfcheck_TB(3) (1).vhd : (23, 4): "b" does not match the formal name.
+# Compile failure 7 Errors 0 Warnings  Analysis time :  46.0 [ms]
+acom -dbg -e 100 -work lab05 -2008  $dsn/src/gray_bin_case.vhd "$dsn/src/gray_bin_selfcheck_TB(3) (1).vhd"
+# File: c:\My_Designs\lab05\lab05\src\gray_bin_case.vhd
+# Compile Entity "gray_bin"
+# Compile Architecture "gray_bin_case" of Entity "gray_bin"
+# Error: COMP96_0329: gray_bin_case.vhd : (17, 3): Generate statement must have a label.
+# Error: COMP96_0019: gray_bin_case.vhd : (17, 19): Keyword 'generate' expected.
+# Error: COMP96_0019: gray_bin_case.vhd : (19, 4): Keyword 'end' expected.
+# Error: COMP96_0016: gray_bin_case.vhd : (19, 9): Design unit declaration expected.
+# File: c:\My_Designs\lab05\lab05\src\gray_bin_selfcheck_TB(3) (1).vhd
+# Compile Entity "gray_bin_selfcheck_tb"
+# Compile Architecture "tb_architecture" of Entity "gray_bin_selfcheck_tb"
+# Compile failure 4 Errors 0 Warnings  Analysis time :  62.0 [ms]
+acom -dbg -e 100 -work lab05 -2008  $dsn/src/gray_bin_case.vhd "$dsn/src/gray_bin_selfcheck_TB(3) (1).vhd"
+# File: c:\My_Designs\lab05\lab05\src\gray_bin_case.vhd
+# Compile Entity "gray_bin"
+# Compile Architecture "gray_bin_case" of Entity "gray_bin"
+# File: c:\My_Designs\lab05\lab05\src\gray_bin_selfcheck_TB(3) (1).vhd
+# Compile Entity "gray_bin_selfcheck_tb"
+# Compile Architecture "tb_architecture" of Entity "gray_bin_selfcheck_tb"
+# Compile success 0 Errors 0 Warnings  Analysis time :  78.0 [ms]
+restart
+# 
+# VSIM: Error: Cannot initialize simulation - no top level  entity/architecture or configuration is selected
+# ELBREAD: Elaboration process.
+# ELBREAD: Elaboration time 0.0 [s].
+asim -O5 +access +r +m+gray_bin_selfcheck_tb gray_bin_selfcheck_tb tb_architecture
+# ELBREAD: Elaboration process.
+# ELBREAD: Elaboration time 0.0 [s].
+# VSIM: Stack memory: 32MB
+# VSIM: Retval memory: 32MB
+# 
+acom -dbg -e 100 -work lab05 -2008  $dsn/src/gray_bin_case.vhd
+# File: c:\My_Designs\lab05\lab05\src\gray_bin_case.vhd
+# Compile Entity "gray_bin"
+# Compile Architecture "gray_bin_case" of Entity "gray_bin"
+# Compile success 0 Errors 0 Warnings  Analysis time :  47.0 [ms]
+# ELBREAD: Elaboration process.
+# ELBREAD: Elaboration time 0.0 [s].
+# KERNEL: Main thread initiated.
+# KERNEL: Kernel process initialization phase.
+# KERNEL: Time resolution set to 1ps.
+# ELAB2: Elaboration final pass...
+# ELAB2: Create instances ...
+# ELAB2: Create instances complete.
+# SLP: Started
+# SLP: Elaboration phase ...
+# SLP: Elaboration phase ... skipped, nothing to simulate in SLP mode : 0.0 [s]
+# SLP: Finished : 0.0 [s]
+# ELAB2: Elaboration final pass complete - time: 0.0 [s].
+# KERNEL: Warning: You are using the Active-HDL Student Edition. The performance of simulation is running at a reduced rate.
+# KERNEL: Warning: Contact Aldec for available upgrade options - sales@aldec.com.
+# KERNEL: Kernel process initialization done.
+# Allocation: Simulator allocated 6070 kB (elbread=1280 elab2=4651 kernel=139 sdf=0)
+# KERNEL: ASDB file was created in location c:\My_Designs\lab05\lab05\src\wave.asdb
+#  7:50 PM, Tuesday, March 3, 2020
+#  Simulation has been initialized
+# KERNEL: Warning: KERNEL_0291 Signal '/gray_bin_selfcheck_tb/UUT/g3' has already been traced.
+# KERNEL: Warning: KERNEL_0291 Signal '/gray_bin_selfcheck_tb/UUT/g2' has already been traced.
+# KERNEL: Warning: KERNEL_0291 Signal '/gray_bin_selfcheck_tb/UUT/g1' has already been traced.
+# KERNEL: Warning: KERNEL_0291 Signal '/gray_bin_selfcheck_tb/UUT/g0' has already been traced.
+# 6 signal(s) traced.
+# Waveform file 'untitled.awc' connected to 'c:/My_Designs/lab05/lab05/src/wave.asdb'.
+run @300
+# KERNEL: stopped at time: 300 ps
+acom -dbg -e 100 -work lab05 -2008  $dsn/src/gray_bin_case.vhd "$dsn/src/gray_bin_selfcheck_TB(3) (1).vhd"
+# File: c:\My_Designs\lab05\lab05\src\gray_bin_case.vhd
+# Compile Entity "gray_bin"
+# Compile Architecture "gray_bin_case" of Entity "gray_bin"
+# File: c:\My_Designs\lab05\lab05\src\gray_bin_selfcheck_TB(3) (1).vhd
+# Compile Entity "gray_bin_selfcheck_tb"
+# Compile Architecture "tb_architecture" of Entity "gray_bin_selfcheck_tb"
+# Compile success 0 Errors 0 Warnings  Analysis time :  78.0 [ms]
+restart
+# ELBREAD: Elaboration process.
+# ELBREAD: Elaboration time 0.0 [s].
+# 
+# KERNEL: Main thread initiated.
+# KERNEL: Kernel process initialization phase.
+# KERNEL: Time resolution set to 1ps.
+# ELAB2: Elaboration final pass...
+# ELAB2: Create instances ...
+# ELAB2: Create instances complete.
+# SLP: Started
+# SLP: Elaboration phase ...
+# SLP: Elaboration phase ... skipped, nothing to simulate in SLP mode : 0.0 [s]
+# SLP: Finished : 0.0 [s]
+# ELAB2: Elaboration final pass complete - time: 0.0 [s].
+# KERNEL: Warning: You are using the Active-HDL Student Edition. The performance of simulation is running at a reduced rate.
+# KERNEL: Warning: Contact Aldec for available upgrade options - sales@aldec.com.
+# KERNEL: Kernel process initialization done.
+# Allocation: Simulator allocated 7094 kB (elbread=1280 elab2=5675 kernel=139 sdf=0)
+# KERNEL: ASDB file was created in location c:\My_Designs\lab05\lab05\src\wave.asdb
+#  7:52 PM, Tuesday, March 3, 2020
+#  Simulation has been initialized
+# Waveform file 'untitled.awc' connected to 'c:/My_Designs/lab05/lab05/src/wave.asdb'.
+run 330 ns
+# EXECUTION:: ERROR  : Error for input 0000.
+# EXECUTION:: Time: 20 ns,  Iteration: 0,  Instance: /gray_bin_selfcheck_tb,  Process: stimulus.
+# EXECUTION:: ERROR  : Error for input 0001.
+# EXECUTION:: Time: 40 ns,  Iteration: 0,  Instance: /gray_bin_selfcheck_tb,  Process: stimulus.
+# EXECUTION:: ERROR  : Error for input 0010.
+# EXECUTION:: Time: 60 ns,  Iteration: 0,  Instance: /gray_bin_selfcheck_tb,  Process: stimulus.
+# EXECUTION:: ERROR  : Error for input 0011.
+# EXECUTION:: Time: 80 ns,  Iteration: 0,  Instance: /gray_bin_selfcheck_tb,  Process: stimulus.
+# EXECUTION:: ERROR  : Error for input 0100.
+# EXECUTION:: Time: 100 ns,  Iteration: 0,  Instance: /gray_bin_selfcheck_tb,  Process: stimulus.
+# EXECUTION:: ERROR  : Error for input 0101.
+# EXECUTION:: Time: 120 ns,  Iteration: 0,  Instance: /gray_bin_selfcheck_tb,  Process: stimulus.
+# EXECUTION:: ERROR  : Error for input 0110.
+# EXECUTION:: Time: 140 ns,  Iteration: 0,  Instance: /gray_bin_selfcheck_tb,  Process: stimulus.
+# EXECUTION:: ERROR  : Error for input 0111.
+# EXECUTION:: Time: 160 ns,  Iteration: 0,  Instance: /gray_bin_selfcheck_tb,  Process: stimulus.
+# EXECUTION:: ERROR  : Error for input 1000.
+# EXECUTION:: Time: 180 ns,  Iteration: 0,  Instance: /gray_bin_selfcheck_tb,  Process: stimulus.
+# EXECUTION:: ERROR  : Error for input 1001.
+# EXECUTION:: Time: 200 ns,  Iteration: 0,  Instance: /gray_bin_selfcheck_tb,  Process: stimulus.
+# EXECUTION:: ERROR  : Error for input 1010.
+# EXECUTION:: Time: 220 ns,  Iteration: 0,  Instance: /gray_bin_selfcheck_tb,  Process: stimulus.
+# EXECUTION:: ERROR  : Error for input 1011.
+# EXECUTION:: Time: 240 ns,  Iteration: 0,  Instance: /gray_bin_selfcheck_tb,  Process: stimulus.
+# EXECUTION:: ERROR  : Error for input 1100.
+# EXECUTION:: Time: 260 ns,  Iteration: 0,  Instance: /gray_bin_selfcheck_tb,  Process: stimulus.
+# EXECUTION:: ERROR  : Error for input 1101.
+# EXECUTION:: Time: 280 ns,  Iteration: 0,  Instance: /gray_bin_selfcheck_tb,  Process: stimulus.
+# EXECUTION:: ERROR  : Error for input 1110.
+# EXECUTION:: Time: 300 ns,  Iteration: 0,  Instance: /gray_bin_selfcheck_tb,  Process: stimulus.
+# EXECUTION:: ERROR  : Error for input 1111.
+# EXECUTION:: Time: 320 ns,  Iteration: 0,  Instance: /gray_bin_selfcheck_tb,  Process: stimulus.
+# KERNEL: stopped at time: 330 ns
+# KERNEL: Simulation has finished. There are no more test vectors to simulate.
+acom -dbg -e 100 -work lab05 -2008  $dsn/src/gray_bin_case.vhd "$dsn/src/gray_bin_selfcheck_TB(3) (1).vhd"
+# File: c:\My_Designs\lab05\lab05\src\gray_bin_case.vhd
+# Compile Entity "gray_bin"
+# Compile Architecture "gray_bin_case" of Entity "gray_bin"
+# Error: COMP96_0019: gray_bin_case.vhd : (15, 1): Keyword 'begin' expected.
+# Error: COMP96_0016: gray_bin_case.vhd : (15, 10): Design unit declaration expected.
+# File: c:\My_Designs\lab05\lab05\src\gray_bin_selfcheck_TB(3) (1).vhd
+# Compile Entity "gray_bin_selfcheck_tb"
+# Compile Architecture "tb_architecture" of Entity "gray_bin_selfcheck_tb"
+# Compile failure 2 Errors 0 Warnings  Analysis time :  63.0 [ms]
+acom -dbg -e 100 -work lab05 -2008  $dsn/src/gray_bin_case.vhd "$dsn/src/gray_bin_selfcheck_TB(3) (1).vhd"
+# File: c:\My_Designs\lab05\lab05\src\gray_bin_case.vhd
+# Compile Entity "gray_bin"
+# Compile Architecture "gray_bin_case" of Entity "gray_bin"
+# File: c:\My_Designs\lab05\lab05\src\gray_bin_selfcheck_TB(3) (1).vhd
+# Compile Entity "gray_bin_selfcheck_tb"
+# Compile Architecture "tb_architecture" of Entity "gray_bin_selfcheck_tb"
+# Compile success 0 Errors 0 Warnings  Analysis time :  78.0 [ms]
+restart
+# ELBREAD: Elaboration process.
+# ELBREAD: Elaboration time 0.0 [s].
+# 
+# KERNEL: Main thread initiated.
+# KERNEL: Kernel process initialization phase.
+# KERNEL: Time resolution set to 1ps.
+# ELAB2: Elaboration final pass...
+# ELAB2: Create instances ...
+# ELAB2: Create instances complete.
+# SLP: Started
+# SLP: Elaboration phase ...
+# SLP: Elaboration phase ... skipped, nothing to simulate in SLP mode : 0.0 [s]
+# SLP: Finished : 0.0 [s]
+# ELAB2: Elaboration final pass complete - time: 0.0 [s].
+# KERNEL: Warning: You are using the Active-HDL Student Edition. The performance of simulation is running at a reduced rate.
+# KERNEL: Warning: Contact Aldec for available upgrade options - sales@aldec.com.
+# KERNEL: Kernel process initialization done.
+# Allocation: Simulator allocated 7094 kB (elbread=1280 elab2=5675 kernel=139 sdf=0)
+# KERNEL: ASDB file was created in location c:\My_Designs\lab05\lab05\src\wave.asdb
+#  7:54 PM, Tuesday, March 3, 2020
+#  Simulation has been initialized
+# Waveform file 'untitled.awc' connected to 'c:/My_Designs/lab05/lab05/src/wave.asdb'.
+run 330 ns
+# EXECUTION:: ERROR  : Error for input 0000.
+# EXECUTION:: Time: 20 ns,  Iteration: 0,  Instance: /gray_bin_selfcheck_tb,  Process: stimulus.
+# EXECUTION:: ERROR  : Error for input 0001.
+# EXECUTION:: Time: 40 ns,  Iteration: 0,  Instance: /gray_bin_selfcheck_tb,  Process: stimulus.
+# EXECUTION:: ERROR  : Error for input 0010.
+# EXECUTION:: Time: 60 ns,  Iteration: 0,  Instance: /gray_bin_selfcheck_tb,  Process: stimulus.
+# EXECUTION:: ERROR  : Error for input 0011.
+# EXECUTION:: Time: 80 ns,  Iteration: 0,  Instance: /gray_bin_selfcheck_tb,  Process: stimulus.
+# EXECUTION:: ERROR  : Error for input 0100.
+# EXECUTION:: Time: 100 ns,  Iteration: 0,  Instance: /gray_bin_selfcheck_tb,  Process: stimulus.
+# EXECUTION:: ERROR  : Error for input 0101.
+# EXECUTION:: Time: 120 ns,  Iteration: 0,  Instance: /gray_bin_selfcheck_tb,  Process: stimulus.
+# EXECUTION:: ERROR  : Error for input 0110.
+# EXECUTION:: Time: 140 ns,  Iteration: 0,  Instance: /gray_bin_selfcheck_tb,  Process: stimulus.
+# EXECUTION:: ERROR  : Error for input 0111.
+# EXECUTION:: Time: 160 ns,  Iteration: 0,  Instance: /gray_bin_selfcheck_tb,  Process: stimulus.
+# EXECUTION:: ERROR  : Error for input 1000.
+# EXECUTION:: Time: 180 ns,  Iteration: 0,  Instance: /gray_bin_selfcheck_tb,  Process: stimulus.
+# EXECUTION:: ERROR  : Error for input 1001.
+# EXECUTION:: Time: 200 ns,  Iteration: 0,  Instance: /gray_bin_selfcheck_tb,  Process: stimulus.
+# EXECUTION:: ERROR  : Error for input 1010.
+# EXECUTION:: Time: 220 ns,  Iteration: 0,  Instance: /gray_bin_selfcheck_tb,  Process: stimulus.
+# EXECUTION:: ERROR  : Error for input 1011.
+# EXECUTION:: Time: 240 ns,  Iteration: 0,  Instance: /gray_bin_selfcheck_tb,  Process: stimulus.
+# EXECUTION:: ERROR  : Error for input 1100.
+# EXECUTION:: Time: 260 ns,  Iteration: 0,  Instance: /gray_bin_selfcheck_tb,  Process: stimulus.
+# EXECUTION:: ERROR  : Error for input 1101.
+# EXECUTION:: Time: 280 ns,  Iteration: 0,  Instance: /gray_bin_selfcheck_tb,  Process: stimulus.
+# EXECUTION:: ERROR  : Error for input 1110.
+# EXECUTION:: Time: 300 ns,  Iteration: 0,  Instance: /gray_bin_selfcheck_tb,  Process: stimulus.
+# EXECUTION:: ERROR  : Error for input 1111.
+# EXECUTION:: Time: 320 ns,  Iteration: 0,  Instance: /gray_bin_selfcheck_tb,  Process: stimulus.
+# KERNEL: stopped at time: 330 ns
+# KERNEL: Simulation has finished. There are no more test vectors to simulate.
+acom -dbg -e 100 -work lab05 -2008  $dsn/src/gray_bin_case.vhd "$dsn/src/gray_bin_selfcheck_TB(3) (1).vhd"
+# File: c:\My_Designs\lab05\lab05\src\gray_bin_case.vhd
+# Compile Entity "gray_bin"
+# Compile Architecture "gray_bin_case" of Entity "gray_bin"
+# File: c:\My_Designs\lab05\lab05\src\gray_bin_selfcheck_TB(3) (1).vhd
+# Compile Entity "gray_bin_selfcheck_tb"
+# Compile Architecture "tb_architecture" of Entity "gray_bin_selfcheck_tb"
+# Compile success 0 Errors 0 Warnings  Analysis time :  79.0 [ms]
+acom -dbg -e 100 -work lab05 -2008  $dsn/src/gray_bin_case.vhd "$dsn/src/gray_bin_selfcheck_TB(3) (1).vhd"
+# File: c:\My_Designs\lab05\lab05\src\gray_bin_case.vhd
+# Compile Entity "gray_bin"
+# Compile Architecture "gray_bin_case" of Entity "gray_bin"
+# Error: COMP96_0028: gray_bin_case.vhd : (16, 36): Identifier or keyword expected.
+# Error: COMP96_0028: gray_bin_case.vhd : (17, 36): Identifier or keyword expected.
+# Error: COMP96_0028: gray_bin_case.vhd : (18, 36): Identifier or keyword expected.
+# Error: COMP96_0028: gray_bin_case.vhd : (19, 36): Identifier or keyword expected.
+# Error: COMP96_0028: gray_bin_case.vhd : (20, 36): Identifier or keyword expected.
+# Error: COMP96_0028: gray_bin_case.vhd : (21, 36): Identifier or keyword expected.
+# Error: COMP96_0028: gray_bin_case.vhd : (22, 36): Identifier or keyword expected.
+# Error: COMP96_0028: gray_bin_case.vhd : (23, 36): Identifier or keyword expected.
+# Error: COMP96_0028: gray_bin_case.vhd : (24, 36): Identifier or keyword expected.
+# Error: COMP96_0028: gray_bin_case.vhd : (25, 36): Identifier or keyword expected.
+# Error: COMP96_0028: gray_bin_case.vhd : (26, 36): Identifier or keyword expected.
+# Error: COMP96_0028: gray_bin_case.vhd : (27, 36): Identifier or keyword expected.
+# Error: COMP96_0028: gray_bin_case.vhd : (28, 36): Identifier or keyword expected.
+# Error: COMP96_0028: gray_bin_case.vhd : (29, 36): Identifier or keyword expected.
+# Error: COMP96_0028: gray_bin_case.vhd : (30, 36): Identifier or keyword expected.
+# Error: COMP96_0028: gray_bin_case.vhd : (31, 36): Identifier or keyword expected.
+# Error: COMP96_0028: gray_bin_case.vhd : (32, 36): Identifier or keyword expected.
+# File: c:\My_Designs\lab05\lab05\src\gray_bin_selfcheck_TB(3) (1).vhd
+# Compile Entity "gray_bin_selfcheck_tb"
+# Compile Architecture "tb_architecture" of Entity "gray_bin_selfcheck_tb"
+# Compile failure 17 Errors 0 Warnings  Analysis time :  62.0 [ms]
+acom -dbg -e 100 -work lab05 -2008  $dsn/src/gray_bin_case.vhd
+# File: c:\My_Designs\lab05\lab05\src\gray_bin_case.vhd
+# Compile Entity "gray_bin"
+# Compile Architecture "gray_bin_case" of Entity "gray_bin"
+# Error: COMP96_0028: gray_bin_case.vhd : (16, 36): Identifier or keyword expected.
+# Error: COMP96_0028: gray_bin_case.vhd : (17, 36): Identifier or keyword expected.
+# Error: COMP96_0028: gray_bin_case.vhd : (18, 36): Identifier or keyword expected.
+# Error: COMP96_0028: gray_bin_case.vhd : (19, 36): Identifier or keyword expected.
+# Error: COMP96_0028: gray_bin_case.vhd : (20, 36): Identifier or keyword expected.
+# Error: COMP96_0028: gray_bin_case.vhd : (21, 36): Identifier or keyword expected.
+# Error: COMP96_0028: gray_bin_case.vhd : (22, 36): Identifier or keyword expected.
+# Error: COMP96_0028: gray_bin_case.vhd : (23, 36): Identifier or keyword expected.
+# Error: COMP96_0028: gray_bin_case.vhd : (24, 36): Identifier or keyword expected.
+# Error: COMP96_0028: gray_bin_case.vhd : (25, 36): Identifier or keyword expected.
+# Error: COMP96_0028: gray_bin_case.vhd : (26, 36): Identifier or keyword expected.
+# Error: COMP96_0028: gray_bin_case.vhd : (27, 36): Identifier or keyword expected.
+# Error: COMP96_0028: gray_bin_case.vhd : (28, 36): Identifier or keyword expected.
+# Error: COMP96_0028: gray_bin_case.vhd : (29, 36): Identifier or keyword expected.
+# Error: COMP96_0028: gray_bin_case.vhd : (30, 36): Identifier or keyword expected.
+# Error: COMP96_0028: gray_bin_case.vhd : (31, 36): Identifier or keyword expected.
+# Error: COMP96_0028: gray_bin_case.vhd : (32, 36): Identifier or keyword expected.
+# Compile failure 17 Errors 0 Warnings  Analysis time :  16.0 [ms]
+acom -dbg -e 100 -work lab05 -2008  $dsn/src/gray_bin_case.vhd "$dsn/src/gray_bin_selfcheck_TB(3) (1).vhd"
+# File: c:\My_Designs\lab05\lab05\src\gray_bin_case.vhd
+# Compile Entity "gray_bin"
+# Compile Architecture "gray_bin_case" of Entity "gray_bin"
+# Error: COMP96_0078: gray_bin_case.vhd : (18, 19): Unknown identifier "bin_vec".
+# Error: COMP96_0133: gray_bin_case.vhd : (18, 19): Cannot find object declaration.
+# Error: COMP96_0078: gray_bin_case.vhd : (19, 19): Unknown identifier "bin_vec".
+# Error: COMP96_0133: gray_bin_case.vhd : (19, 19): Cannot find object declaration.
+# Error: COMP96_0078: gray_bin_case.vhd : (20, 19): Unknown identifier "bin_vec".
+# Error: COMP96_0133: gray_bin_case.vhd : (20, 19): Cannot find object declaration.
+# Error: COMP96_0078: gray_bin_case.vhd : (21, 19): Unknown identifier "bin_vec".
+# Error: COMP96_0133: gray_bin_case.vhd : (21, 19): Cannot find object declaration.
+# Error: COMP96_0078: gray_bin_case.vhd : (22, 19): Unknown identifier "bin_vec".
+# Error: COMP96_0133: gray_bin_case.vhd : (22, 19): Cannot find object declaration.
+# Error: COMP96_0078: gray_bin_case.vhd : (23, 19): Unknown identifier "bin_vec".
+# Error: COMP96_0133: gray_bin_case.vhd : (23, 19): Cannot find object declaration.
+# Error: COMP96_0078: gray_bin_case.vhd : (24, 19): Unknown identifier "bin_vec".
+# Error: COMP96_0133: gray_bin_case.vhd : (24, 19): Cannot find object declaration.
+# Error: COMP96_0078: gray_bin_case.vhd : (25, 19): Unknown identifier "bin_vec".
+# Error: COMP96_0133: gray_bin_case.vhd : (25, 19): Cannot find object declaration.
+# Error: COMP96_0078: gray_bin_case.vhd : (26, 19): Unknown identifier "bin_vec".
+# Error: COMP96_0133: gray_bin_case.vhd : (26, 19): Cannot find object declaration.
+# Error: COMP96_0078: gray_bin_case.vhd : (27, 19): Unknown identifier "bin_vec".
+# Error: COMP96_0133: gray_bin_case.vhd : (27, 19): Cannot find object declaration.
+# Error: COMP96_0078: gray_bin_case.vhd : (28, 19): Unknown identifier "bin_vec".
+# Error: COMP96_0133: gray_bin_case.vhd : (28, 19): Cannot find object declaration.
+# Error: COMP96_0078: gray_bin_case.vhd : (29, 19): Unknown identifier "bin_vec".
+# Error: COMP96_0133: gray_bin_case.vhd : (29, 19): Cannot find object declaration.
+# Error: COMP96_0078: gray_bin_case.vhd : (30, 19): Unknown identifier "bin_vec".
+# Error: COMP96_0133: gray_bin_case.vhd : (30, 19): Cannot find object declaration.
+# Error: COMP96_0078: gray_bin_case.vhd : (31, 19): Unknown identifier "bin_vec".
+# Error: COMP96_0133: gray_bin_case.vhd : (31, 19): Cannot find object declaration.
+# Error: COMP96_0078: gray_bin_case.vhd : (32, 19): Unknown identifier "bin_vec".
+# Error: COMP96_0133: gray_bin_case.vhd : (32, 19): Cannot find object declaration.
+# Error: COMP96_0078: gray_bin_case.vhd : (33, 19): Unknown identifier "bin_vec".
+# Error: COMP96_0133: gray_bin_case.vhd : (33, 19): Cannot find object declaration.
+# File: c:\My_Designs\lab05\lab05\src\gray_bin_selfcheck_TB(3) (1).vhd
+# Compile Entity "gray_bin_selfcheck_tb"
+# Compile Architecture "tb_architecture" of Entity "gray_bin_selfcheck_tb"
+# Compile failure 32 Errors 0 Warnings  Analysis time :  94.0 [ms]
+acom -dbg -e 100 -work lab05 -2008  $dsn/src/gray_bin_case.vhd "$dsn/src/gray_bin_selfcheck_TB(3) (1).vhd"
+# File: c:\My_Designs\lab05\lab05\src\gray_bin_case.vhd
+# Compile Entity "gray_bin"
+# Compile Architecture "gray_bin_case" of Entity "gray_bin"
+# File: c:\My_Designs\lab05\lab05\src\gray_bin_selfcheck_TB(3) (1).vhd
+# Compile Entity "gray_bin_selfcheck_tb"
+# Compile Architecture "tb_architecture" of Entity "gray_bin_selfcheck_tb"
+# Compile success 0 Errors 0 Warnings  Analysis time :  0.2 [s]
+restart
+# ELBREAD: Elaboration process.
+# ELBREAD: Elaboration time 0.0 [s].
+# 
+# KERNEL: Main thread initiated.
+# KERNEL: Kernel process initialization phase.
+# KERNEL: Time resolution set to 1ps.
+# ELAB2: Elaboration final pass...
+# ELAB2: Create instances ...
+# ELAB2: Create instances complete.
+# SLP: Started
+# SLP: Elaboration phase ...
+# SLP: Elaboration phase ... skipped, nothing to simulate in SLP mode : 0.0 [s]
+# SLP: Finished : 0.0 [s]
+# ELAB2: Elaboration final pass complete - time: 0.0 [s].
+# KERNEL: Warning: You are using the Active-HDL Student Edition. The performance of simulation is running at a reduced rate.
+# KERNEL: Warning: Contact Aldec for available upgrade options - sales@aldec.com.
+# KERNEL: Kernel process initialization done.
+# Allocation: Simulator allocated 6076 kB (elbread=1280 elab2=4655 kernel=140 sdf=0)
+# KERNEL: ASDB file was created in location c:\My_Designs\lab05\lab05\src\wave.asdb
+#  9:06 PM, Tuesday, March 3, 2020
+#  Simulation has been initialized
+# Waveform file 'untitled.awc' connected to 'c:/My_Designs/lab05/lab05/src/wave.asdb'.
+# Warning: WAVEFORM: Object matching /gray_bin_selfcheck_tb/UUT/gray_vec not found in c:/My_Designs/lab05/lab05/src/wave.asdb.
+# Warning: WAVEFORM: Object matching /gray_bin_selfcheck_tb/UUT/bin_vec not found in c:/My_Designs/lab05/lab05/src/wave.asdb.
+run 330 ns
+# KERNEL: stopped at time: 330 ns
+# KERNEL: Simulation has finished. There are no more test vectors to simulate.
+acom -dbg -e 100 -work lab05 -2008  $dsn/src/gray_bin_case.vhd "$dsn/src/gray_bin_selfcheck_TB(3) (1).vhd"
+# File: c:\My_Designs\lab05\lab05\src\gray_bin_case.vhd
+# Compile Entity "gray_bin"
+# Compile Architecture "gray_bin_case" of Entity "gray_bin"
+# Error: COMP96_0329: gray_bin_case.vhd : (13, 3): Generate statement must have a label.
+# Error: COMP96_0019: gray_bin_case.vhd : (13, 44): Keyword 'generate' expected.
+# Error: COMP96_0019: gray_bin_case.vhd : (15, 4): Keyword 'end' expected.
+# Error: COMP96_0016: gray_bin_case.vhd : (15, 9): Design unit declaration expected.
+# File: c:\My_Designs\lab05\lab05\src\gray_bin_selfcheck_TB(3) (1).vhd
+# Compile Entity "gray_bin_selfcheck_tb"
+# Compile Architecture "tb_architecture" of Entity "gray_bin_selfcheck_tb"
+# Compile failure 4 Errors 0 Warnings  Analysis time :  0.1 [s]
+acom -dbg -e 100 -work lab05 -2008  $dsn/src/gray_bin_case.vhd "$dsn/src/gray_bin_selfcheck_TB(3) (1).vhd"
+# File: c:\My_Designs\lab05\lab05\src\gray_bin_case.vhd
+# Compile Entity "gray_bin"
+# Compile Architecture "gray_bin_case" of Entity "gray_bin"
+# File: c:\My_Designs\lab05\lab05\src\gray_bin_selfcheck_TB(3) (1).vhd
+# Compile Entity "gray_bin_selfcheck_tb"
+# Compile Architecture "tb_architecture" of Entity "gray_bin_selfcheck_tb"
+# Compile success 0 Errors 0 Warnings  Analysis time :  0.1 [s]
+restart
+# ELBREAD: Elaboration process.
+# ELBREAD: Elaboration time 0.0 [s].
+# 
+# KERNEL: Main thread initiated.
+# KERNEL: Kernel process initialization phase.
+# KERNEL: Time resolution set to 1ps.
+# ELAB2: Elaboration final pass...
+# ELAB2: Create instances ...
+# ELAB2: Create instances complete.
+# SLP: Started
+# SLP: Elaboration phase ...
+# SLP: Elaboration phase ... skipped, nothing to simulate in SLP mode : 0.0 [s]
+# SLP: Finished : 0.0 [s]
+# ELAB2: Elaboration final pass complete - time: 0.0 [s].
+# KERNEL: Warning: You are using the Active-HDL Student Edition. The performance of simulation is running at a reduced rate.
+# KERNEL: Warning: Contact Aldec for available upgrade options - sales@aldec.com.
+# KERNEL: Kernel process initialization done.
+# Allocation: Simulator allocated 6076 kB (elbread=1280 elab2=4655 kernel=140 sdf=0)
+# KERNEL: ASDB file was created in location c:\My_Designs\lab05\lab05\src\wave.asdb
+#  10:17 PM, Tuesday, March 3, 2020
+#  Simulation has been initialized
+# Waveform file 'untitled.awc' connected to 'c:/My_Designs/lab05/lab05/src/wave.asdb'.
+# WAVEFORM: 4 signal(s) inserted to virtual bus 'gray'.
+# WAVEFORM: 4 signal(s) inserted to virtual bus 'bin'.
+run 330 ns
+acom -dbg -e 100 -work lab05 -2008  $dsn/src/gray_bin_case.vhd
+# File: c:\My_Designs\lab05\lab05\src\gray_bin_case.vhd
+# Compile Entity "gray_bin"
+# Compile Architecture "gray_bin_case" of Entity "gray_bin"
+# Compile success 0 Errors 0 Warnings  Analysis time :  78.0 [ms]
+# ELBREAD: Elaboration process.
+# ELBREAD: Elaboration time 0.0 [s].
+# 
+# KERNEL: Main thread initiated.
+# KERNEL: Kernel process initialization phase.
+# KERNEL: Time resolution set to 1ps.
+# ELAB2: Elaboration final pass...
+# ELAB2: Create instances ...
+# ELAB2: Create instances complete.
+# SLP: Started
+# SLP: Elaboration phase ...
+# SLP: Elaboration phase ... skipped, nothing to simulate in SLP mode : 0.0 [s]
+# SLP: Finished : 0.0 [s]
+# ELAB2: Elaboration final pass complete - time: 0.0 [s].
+# KERNEL: Warning: You are using the Active-HDL Student Edition. The performance of simulation is running at a reduced rate.
+# KERNEL: Warning: Contact Aldec for available upgrade options - sales@aldec.com.
+# KERNEL: Kernel process initialization done.
+# Allocation: Simulator allocated 6076 kB (elbread=1280 elab2=4655 kernel=140 sdf=0)
+# KERNEL: ASDB file was created in location c:\My_Designs\lab05\lab05\src\wave.asdb
+#  10:17 PM, Tuesday, March 3, 2020
+#  Simulation has been initialized
+# Waveform file 'untitled.awc' connected to 'c:/My_Designs/lab05/lab05/src/wave.asdb'.
+# WAVEFORM: 4 signal(s) inserted to virtual bus 'gray'.
+# WAVEFORM: 4 signal(s) inserted to virtual bus 'bin'.
+run 330 ns
+# KERNEL: stopped at time: 330 ns
+# KERNEL: Simulation has finished. There are no more test vectors to simulate.
+acom -dbg -e 100 -work lab05 -2008  "$dsn/src/gray_bin_selfcheck_TB(3) (1).vhd" $dsn/src/gray_bin_case_vect.vhd
+# File: c:\My_Designs\lab05\lab05\src\gray_bin_selfcheck_TB(3) (1).vhd
+# Compile Entity "gray_bin_selfcheck_tb"
+# Compile Architecture "tb_architecture" of Entity "gray_bin_selfcheck_tb"
+# File: c:\My_Designs\lab05\lab05\src\gray_bin_case_vect.vhd
+# Compile Entity "gray_bin"
+# Compile Architecture "gray_bin_case_vect" of Entity "gray_bin"
+# Error: COMP96_0111: gray_bin_case_vect.vhd : (35, 5): Labels do not match.
+# Compile failure 1 Errors 0 Warnings  Analysis time :  94.0 [ms]
+acom -dbg -e 100 -work lab05 -2008  "$dsn/src/gray_bin_selfcheck_TB(3) (1).vhd" $dsn/src/gray_bin_case_vect.vhd
+# File: c:\My_Designs\lab05\lab05\src\gray_bin_selfcheck_TB(3) (1).vhd
+# Compile Entity "gray_bin_selfcheck_tb"
+# Compile Architecture "tb_architecture" of Entity "gray_bin_selfcheck_tb"
+# Error: COMP96_0078: gray_bin_selfcheck_TB(3) (1).vhd : (24, 13): Unknown identifier "g3".
+# Error: COMP96_0078: gray_bin_selfcheck_TB(3) (1).vhd : (24, 23): Unknown identifier "g2".
+# Error: COMP96_0078: gray_bin_selfcheck_TB(3) (1).vhd : (24, 33): Unknown identifier "g1".
+# Error: COMP96_0078: gray_bin_selfcheck_TB(3) (1).vhd : (24, 43): Unknown identifier "g0".
+# Error: COMP96_0078: gray_bin_selfcheck_TB(3) (1).vhd : (25, 4): Unknown identifier "b3".
+# Error: COMP96_0078: gray_bin_selfcheck_TB(3) (1).vhd : (25, 14): Unknown identifier "b2".
+# Error: COMP96_0078: gray_bin_selfcheck_TB(3) (1).vhd : (25, 24): Unknown identifier "b1".
+# Error: COMP96_0078: gray_bin_selfcheck_TB(3) (1).vhd : (25, 34): Unknown identifier "b0".
+# Error: COMP96_0133: gray_bin_selfcheck_TB(3) (1).vhd : (24, 13): Cannot find object declaration.
+# Error: COMP96_0112: gray_bin_selfcheck_TB(3) (1).vhd : (24, 13): "g3" does not match the formal name.
+# Error: COMP96_0207: gray_bin_selfcheck_TB(3) (1).vhd : (23, 2): No actual specified for local port "g".
+# Error: COMP96_0207: gray_bin_selfcheck_TB(3) (1).vhd : (23, 2): No actual specified for local port "b".
+# File: c:\My_Designs\lab05\lab05\src\gray_bin_case_vect.vhd
+# Compile Entity "gray_bin"
+# Compile Architecture "gray_bin_case_vect" of Entity "gray_bin"
+# Compile failure 12 Errors 0 Warnings  Analysis time :  94.0 [ms]
+acom -dbg -e 100 -work lab05 -2008  $dsn/src/gray_bin_case_vect.vhd $dsn/src/gray_bin_selfcheck_tb_vect.vhd
+# File: c:\My_Designs\lab05\lab05\src\gray_bin_case_vect.vhd
+# Compile Entity "gray_bin"
+# Compile Architecture "gray_bin_case_vect" of Entity "gray_bin"
+# File: c:\My_Designs\lab05\lab05\src\gray_bin_selfcheck_tb_vect.vhd
+# Compile Entity "gray_bin_selfcheck_tb"
+# Compile Architecture "tb_architecture" of Entity "gray_bin_selfcheck_tb"
+# Compile success 0 Errors 0 Warnings  Analysis time :  0.1 [s]
+restart
+# 
+# VSIM: Error: Cannot initialize simulation - no top level  entity/architecture or configuration is selected
+# ELBREAD: Elaboration process.
+# ELBREAD: Elaboration time 0.0 [s].
+asim -O5 +access +r +m+gray_bin_selfcheck_tb gray_bin_selfcheck_tb tb_architecture
+# ELBREAD: Elaboration process.
+# ELBREAD: Elaboration time 0.0 [s].
+# VSIM: Stack memory: 32MB
+# VSIM: Retval memory: 32MB
+# 
+# KERNEL: Main thread initiated.
+# KERNEL: Kernel process initialization phase.
+# KERNEL: Time resolution set to 1ps.
+# ELAB2: Elaboration final pass...
+# ELAB2: Create instances ...
+# ELAB2: Create instances complete.
+# SLP: Started
+# SLP: Elaboration phase ...
+# SLP: Elaboration phase ... skipped, nothing to simulate in SLP mode : 0.0 [s]
+# SLP: Finished : 0.0 [s]
+# ELAB2: Elaboration final pass complete - time: 0.0 [s].
+# KERNEL: Warning: You are using the Active-HDL Student Edition. The performance of simulation is running at a reduced rate.
+# KERNEL: Warning: Contact Aldec for available upgrade options - sales@aldec.com.
+# KERNEL: Kernel process initialization done.
+# Allocation: Simulator allocated 6072 kB (elbread=1280 elab2=4653 kernel=139 sdf=0)
+# KERNEL: ASDB file was created in location c:\My_Designs\lab05\lab05\src\wave.asdb
+#  10:38 PM, Tuesday, March 3, 2020
+#  Simulation has been initialized
+# Waveform file 'untitled.awc' connected to 'c:/My_Designs/lab05/lab05/src/wave.asdb'.
+# Warning: WAVEFORM: Object matching /gray_bin_selfcheck_tb/UUT/g3 not found in c:/My_Designs/lab05/lab05/src/wave.asdb.
+# Warning: WAVEFORM: Object matching /gray_bin_selfcheck_tb/UUT/g2 not found in c:/My_Designs/lab05/lab05/src/wave.asdb.
+# Warning: WAVEFORM: Object matching /gray_bin_selfcheck_tb/UUT/g1 not found in c:/My_Designs/lab05/lab05/src/wave.asdb.
+# Warning: WAVEFORM: Object matching /gray_bin_selfcheck_tb/UUT/g0 not found in c:/My_Designs/lab05/lab05/src/wave.asdb.
+# Warning: WAVEFORM: Object matching /gray_bin_selfcheck_tb/UUT/b3 not found in c:/My_Designs/lab05/lab05/src/wave.asdb.
+# Warning: WAVEFORM: Object matching /gray_bin_selfcheck_tb/UUT/b2 not found in c:/My_Designs/lab05/lab05/src/wave.asdb.
+# Warning: WAVEFORM: Object matching /gray_bin_selfcheck_tb/UUT/b1 not found in c:/My_Designs/lab05/lab05/src/wave.asdb.
+# Warning: WAVEFORM: Object matching /gray_bin_selfcheck_tb/UUT/b0 not found in c:/My_Designs/lab05/lab05/src/wave.asdb.
+# Warning: WAVEFORM: Object matching /gray_bin_selfcheck_tb/UUT/g3 not found in c:/My_Designs/lab05/lab05/src/wave.asdb.
+# Warning: WAVEFORM: Object matching /gray_bin_selfcheck_tb/UUT/g2 not found in c:/My_Designs/lab05/lab05/src/wave.asdb.
+# Warning: WAVEFORM: Object matching /gray_bin_selfcheck_tb/UUT/g1 not found in c:/My_Designs/lab05/lab05/src/wave.asdb.
+# Warning: WAVEFORM: Object matching /gray_bin_selfcheck_tb/UUT/g0 not found in c:/My_Designs/lab05/lab05/src/wave.asdb.
+# Warning: WAVEFORM: Object matching /gray_bin_selfcheck_tb/UUT/b3 not found in c:/My_Designs/lab05/lab05/src/wave.asdb.
+# Warning: WAVEFORM: Object matching /gray_bin_selfcheck_tb/UUT/b2 not found in c:/My_Designs/lab05/lab05/src/wave.asdb.
+# Warning: WAVEFORM: Object matching /gray_bin_selfcheck_tb/UUT/b1 not found in c:/My_Designs/lab05/lab05/src/wave.asdb.
+# Warning: WAVEFORM: Object matching /gray_bin_selfcheck_tb/UUT/b0 not found in c:/My_Designs/lab05/lab05/src/wave.asdb.
+run 330 ns
+# KERNEL: stopped at time: 330 ns
+# KERNEL: Simulation has finished. There are no more test vectors to simulate.
+run 330 ns
+# KERNEL: stopped at time: 660 ns
+# KERNEL: Simulation has finished. There are no more test vectors to simulate.
+# 2 signal(s) traced.
+run 330 ns
+# KERNEL: stopped at time: 990 ns
+# KERNEL: Simulation has finished. There are no more test vectors to simulate.
+restart
+# ELBREAD: Elaboration process.
+# ELBREAD: Elaboration time 0.0 [s].
+# 
+# KERNEL: Main thread initiated.
+# KERNEL: Kernel process initialization phase.
+# KERNEL: Time resolution set to 1ps.
+# ELAB2: Elaboration final pass...
+# ELAB2: Create instances ...
+# ELAB2: Create instances complete.
+# SLP: Started
+# SLP: Elaboration phase ...
+# SLP: Elaboration phase ... skipped, nothing to simulate in SLP mode : 0.0 [s]
+# SLP: Finished : 0.0 [s]
+# ELAB2: Elaboration final pass complete - time: 0.0 [s].
+# KERNEL: Warning: You are using the Active-HDL Student Edition. The performance of simulation is running at a reduced rate.
+# KERNEL: Warning: Contact Aldec for available upgrade options - sales@aldec.com.
+# KERNEL: Kernel process initialization done.
+# Allocation: Simulator allocated 6072 kB (elbread=1280 elab2=4653 kernel=139 sdf=0)
+# KERNEL: ASDB file was created in location c:\My_Designs\lab05\lab05\src\wave.asdb
+#  10:39 PM, Tuesday, March 3, 2020
+#  Simulation has been initialized
+# Waveform file 'untitled.awc' connected to 'c:/My_Designs/lab05/lab05/src/wave.asdb'.
+run @330ns
+# KERNEL: stopped at time: 330 ns
+# KERNEL: Simulation has finished. There are no more test vectors to simulate.
+acom -dbg -e 100 -work lab05 -2008  $dsn/src/gray_bin_selfcheck_tb_vect.vhd $dsn/src/gray_bin_if_vect.vhd
+# File: c:\My_Designs\lab05\lab05\src\gray_bin_selfcheck_tb_vect.vhd
+# Compile Entity "gray_bin_selfcheck_tb"
+# Compile Architecture "tb_architecture" of Entity "gray_bin_selfcheck_tb"
+# File: c:\My_Designs\lab05\lab05\src\gray_bin_if_vect.vhd
+# Compile Entity "gray_bin"
+# Compile Architecture "gray_bin_case_vect" of Entity "gray_bin"
+# Error: COMP96_0015: gray_bin_if_vect.vhd : (15, 10): ';' expected.
+# Error: COMP96_0015: gray_bin_if_vect.vhd : (15, 12): '<=' expected.
+# Error: COMP96_0015: gray_bin_if_vect.vhd : (16, 10): ';' expected.
+# Error: COMP96_0015: gray_bin_if_vect.vhd : (16, 12): '<=' expected.
+# Error: COMP96_0015: gray_bin_if_vect.vhd : (17, 10): ';' expected.
+# Error: COMP96_0015: gray_bin_if_vect.vhd : (17, 12): '<=' expected.
+# Error: COMP96_0015: gray_bin_if_vect.vhd : (18, 10): ';' expected.
+# Error: COMP96_0015: gray_bin_if_vect.vhd : (18, 12): '<=' expected.
+# Error: COMP96_0015: gray_bin_if_vect.vhd : (19, 10): ';' expected.
+# Error: COMP96_0015: gray_bin_if_vect.vhd : (19, 12): '<=' expected.
+# Error: COMP96_0015: gray_bin_if_vect.vhd : (20, 10): ';' expected.
+# Error: COMP96_0015: gray_bin_if_vect.vhd : (20, 12): '<=' expected.
+# Error: COMP96_0015: gray_bin_if_vect.vhd : (21, 10): ';' expected.
+# Error: COMP96_0015: gray_bin_if_vect.vhd : (21, 12): '<=' expected.
+# Error: COMP96_0015: gray_bin_if_vect.vhd : (22, 10): ';' expected.
+# Error: COMP96_0015: gray_bin_if_vect.vhd : (22, 12): '<=' expected.
+# Error: COMP96_0015: gray_bin_if_vect.vhd : (23, 10): ';' expected.
+# Error: COMP96_0015: gray_bin_if_vect.vhd : (23, 12): '<=' expected.
+# Error: COMP96_0015: gray_bin_if_vect.vhd : (24, 10): ';' expected.
+# Error: COMP96_0015: gray_bin_if_vect.vhd : (24, 12): '<=' expected.
+# Error: COMP96_0015: gray_bin_if_vect.vhd : (25, 10): ';' expected.
+# Error: COMP96_0015: gray_bin_if_vect.vhd : (25, 12): '<=' expected.
+# Error: COMP96_0015: gray_bin_if_vect.vhd : (26, 10): ';' expected.
+# Error: COMP96_0015: gray_bin_if_vect.vhd : (26, 12): '<=' expected.
+# Error: COMP96_0015: gray_bin_if_vect.vhd : (27, 10): ';' expected.
+# Error: COMP96_0015: gray_bin_if_vect.vhd : (27, 12): '<=' expected.
+# Error: COMP96_0015: gray_bin_if_vect.vhd : (28, 10): ';' expected.
+# Error: COMP96_0015: gray_bin_if_vect.vhd : (28, 12): '<=' expected.
+# Error: COMP96_0015: gray_bin_if_vect.vhd : (29, 10): ';' expected.
+# Error: COMP96_0015: gray_bin_if_vect.vhd : (29, 12): '<=' expected.
+# Error: COMP96_0015: gray_bin_if_vect.vhd : (30, 10): ';' expected.
+# Error: COMP96_0015: gray_bin_if_vect.vhd : (30, 12): '<=' expected.
+# Error: COMP96_0019: gray_bin_if_vect.vhd : (32, 6): Keyword 'if' expected.
+# Error: COMP96_0015: gray_bin_if_vect.vhd : (32, 6): ';' expected.
+# Error: COMP96_0019: gray_bin_if_vect.vhd : (34, 5): Keyword 'process' expected.
+# Error: COMP96_0019: gray_bin_if_vect.vhd : (35, 0): Keyword 'end' expected.
+# Compile failure 36 Errors 0 Warnings  Analysis time :  93.0 [ms]
+acom -dbg -e 100 -work lab05 -2008  $dsn/src/gray_bin_selfcheck_tb_vect.vhd $dsn/src/gray_bin_if_vect.vhd
+# File: c:\My_Designs\lab05\lab05\src\gray_bin_selfcheck_tb_vect.vhd
+# Compile Entity "gray_bin_selfcheck_tb"
+# Compile Architecture "tb_architecture" of Entity "gray_bin_selfcheck_tb"
+# File: c:\My_Designs\lab05\lab05\src\gray_bin_if_vect.vhd
+# Compile Entity "gray_bin"
+# Compile Architecture "gray_bin_case_vect" of Entity "gray_bin"
+# Error: COMP96_0015: gray_bin_if_vect.vhd : (15, 10): ';' expected.
+# Error: COMP96_0015: gray_bin_if_vect.vhd : (15, 12): '<=' expected.
+# Error: COMP96_0015: gray_bin_if_vect.vhd : (16, 10): ';' expected.
+# Error: COMP96_0015: gray_bin_if_vect.vhd : (16, 12): '<=' expected.
+# Error: COMP96_0015: gray_bin_if_vect.vhd : (17, 10): ';' expected.
+# Error: COMP96_0015: gray_bin_if_vect.vhd : (17, 12): '<=' expected.
+# Error: COMP96_0015: gray_bin_if_vect.vhd : (18, 10): ';' expected.
+# Error: COMP96_0015: gray_bin_if_vect.vhd : (18, 12): '<=' expected.
+# Error: COMP96_0015: gray_bin_if_vect.vhd : (19, 10): ';' expected.
+# Error: COMP96_0015: gray_bin_if_vect.vhd : (19, 12): '<=' expected.
+# Error: COMP96_0015: gray_bin_if_vect.vhd : (20, 10): ';' expected.
+# Error: COMP96_0015: gray_bin_if_vect.vhd : (20, 12): '<=' expected.
+# Error: COMP96_0015: gray_bin_if_vect.vhd : (21, 10): ';' expected.
+# Error: COMP96_0015: gray_bin_if_vect.vhd : (21, 12): '<=' expected.
+# Error: COMP96_0015: gray_bin_if_vect.vhd : (22, 10): ';' expected.
+# Error: COMP96_0015: gray_bin_if_vect.vhd : (22, 12): '<=' expected.
+# Error: COMP96_0015: gray_bin_if_vect.vhd : (23, 10): ';' expected.
+# Error: COMP96_0015: gray_bin_if_vect.vhd : (23, 12): '<=' expected.
+# Error: COMP96_0015: gray_bin_if_vect.vhd : (24, 10): ';' expected.
+# Error: COMP96_0015: gray_bin_if_vect.vhd : (24, 12): '<=' expected.
+# Error: COMP96_0015: gray_bin_if_vect.vhd : (25, 10): ';' expected.
+# Error: COMP96_0015: gray_bin_if_vect.vhd : (25, 12): '<=' expected.
+# Error: COMP96_0015: gray_bin_if_vect.vhd : (26, 10): ';' expected.
+# Error: COMP96_0015: gray_bin_if_vect.vhd : (26, 12): '<=' expected.
+# Error: COMP96_0015: gray_bin_if_vect.vhd : (27, 10): ';' expected.
+# Error: COMP96_0015: gray_bin_if_vect.vhd : (27, 12): '<=' expected.
+# Error: COMP96_0015: gray_bin_if_vect.vhd : (28, 10): ';' expected.
+# Error: COMP96_0015: gray_bin_if_vect.vhd : (28, 12): '<=' expected.
+# Error: COMP96_0015: gray_bin_if_vect.vhd : (29, 10): ';' expected.
+# Error: COMP96_0015: gray_bin_if_vect.vhd : (29, 12): '<=' expected.
+# Error: COMP96_0015: gray_bin_if_vect.vhd : (30, 10): ';' expected.
+# Error: COMP96_0015: gray_bin_if_vect.vhd : (30, 12): '<=' expected.
+# Compile failure 32 Errors 0 Warnings  Analysis time :  94.0 [ms]
+acom -dbg -e 100 -work lab05 -2008  $dsn/src/gray_bin_selfcheck_tb_vect.vhd $dsn/src/gray_bin_if_vect.vhd
+# File: c:\My_Designs\lab05\lab05\src\gray_bin_selfcheck_tb_vect.vhd
+# Compile Entity "gray_bin_selfcheck_tb"
+# Compile Architecture "tb_architecture" of Entity "gray_bin_selfcheck_tb"
+# File: c:\My_Designs\lab05\lab05\src\gray_bin_if_vect.vhd
+# Compile Entity "gray_bin"
+# Compile Architecture "gray_bin_case_vect" of Entity "gray_bin"
+# Compile success 0 Errors 0 Warnings  Analysis time :  0.1 [s]
+restart
+# ELBREAD: Elaboration process.
+# ELBREAD: Elaboration time 0.0 [s].
+# 
+# KERNEL: Main thread initiated.
+# KERNEL: Kernel process initialization phase.
+# KERNEL: Time resolution set to 1ps.
+# ELAB2: Elaboration final pass...
+# ELAB2: Create instances ...
+# ELAB2: Create instances complete.
+# SLP: Started
+# SLP: Elaboration phase ...
+# SLP: Elaboration phase ... skipped, nothing to simulate in SLP mode : 0.0 [s]
+# SLP: Finished : 0.0 [s]
+# ELAB2: Elaboration final pass complete - time: 0.0 [s].
+# KERNEL: Warning: You are using the Active-HDL Student Edition. The performance of simulation is running at a reduced rate.
+# KERNEL: Warning: Contact Aldec for available upgrade options - sales@aldec.com.
+# KERNEL: Kernel process initialization done.
+# Allocation: Simulator allocated 6074 kB (elbread=1280 elab2=4654 kernel=139 sdf=0)
+# KERNEL: ASDB file was created in location c:\My_Designs\lab05\lab05\src\wave.asdb
+#  10:47 PM, Tuesday, March 3, 2020
+#  Simulation has been initialized
+# Waveform file 'untitled.awc' connected to 'c:/My_Designs/lab05/lab05/src/wave.asdb'.
+run @330ns
+# KERNEL: stopped at time: 330 ns
+# KERNEL: Simulation has finished. There are no more test vectors to simulate.
+acom -dbg -e 100 -work lab05 -2008  $dsn/src/gray_bin_selfcheck_tb_vect.vhd $dsn/src/gray_bin_loop.vhd
+# File: c:\My_Designs\lab05\lab05\src\gray_bin_selfcheck_tb_vect.vhd
+# Compile Entity "gray_bin_selfcheck_tb"
+# Compile Architecture "tb_architecture" of Entity "gray_bin_selfcheck_tb"
+# File: c:\My_Designs\lab05\lab05\src\gray_bin_loop.vhd
+# Compile Entity "gray_bin"
+# Compile Architecture "gray_bin_loop" of Entity "gray_bin"
+# Warning: COMP96_0119: gray_bin_loop.vhd : (15, 12): The range is 'null range'.
+# Compile success 0 Errors 1 Warnings  Analysis time :  0.1 [s]
+run 330 ns
+# KERNEL: stopped at time: 660 ns
+# KERNEL: Simulation has finished. There are no more test vectors to simulate.
+restart
+# ELBREAD: Elaboration process.
+# ELBREAD: Elaboration time 0.0 [s].
+# 
+# KERNEL: Main thread initiated.
+# KERNEL: Kernel process initialization phase.
+# KERNEL: Time resolution set to 1ps.
+# ELAB2: Elaboration final pass...
+# ELAB2: Create instances ...
+# ELAB2: Create instances complete.
+# SLP: Started
+# SLP: Elaboration phase ...
+# SLP: Elaboration phase ... skipped, nothing to simulate in SLP mode : 0.0 [s]
+# SLP: Finished : 0.0 [s]
+# ELAB2: Elaboration final pass complete - time: 0.0 [s].
+# KERNEL: Warning: You are using the Active-HDL Student Edition. The performance of simulation is running at a reduced rate.
+# KERNEL: Warning: Contact Aldec for available upgrade options - sales@aldec.com.
+# KERNEL: Kernel process initialization done.
+# Allocation: Simulator allocated 6066 kB (elbread=1280 elab2=4648 kernel=138 sdf=0)
+# KERNEL: ASDB file was created in location c:\My_Designs\lab05\lab05\src\wave.asdb
+#  10:58 PM, Tuesday, March 3, 2020
+#  Simulation has been initialized
+# Waveform file 'untitled.awc' connected to 'c:/My_Designs/lab05/lab05/src/wave.asdb'.
+run 330 ns
+# EXECUTION:: ERROR  : Error for input 0000.
+# EXECUTION:: Time: 20 ns,  Iteration: 0,  Instance: /gray_bin_selfcheck_tb,  Process: stimulus.
+# EXECUTION:: ERROR  : Error for input 0001.
+# EXECUTION:: Time: 40 ns,  Iteration: 0,  Instance: /gray_bin_selfcheck_tb,  Process: stimulus.
+# EXECUTION:: ERROR  : Error for input 0010.
+# EXECUTION:: Time: 60 ns,  Iteration: 0,  Instance: /gray_bin_selfcheck_tb,  Process: stimulus.
+# EXECUTION:: ERROR  : Error for input 0011.
+# EXECUTION:: Time: 80 ns,  Iteration: 0,  Instance: /gray_bin_selfcheck_tb,  Process: stimulus.
+# EXECUTION:: ERROR  : Error for input 0100.
+# EXECUTION:: Time: 100 ns,  Iteration: 0,  Instance: /gray_bin_selfcheck_tb,  Process: stimulus.
+# EXECUTION:: ERROR  : Error for input 0101.
+# EXECUTION:: Time: 120 ns,  Iteration: 0,  Instance: /gray_bin_selfcheck_tb,  Process: stimulus.
+# EXECUTION:: ERROR  : Error for input 0110.
+# EXECUTION:: Time: 140 ns,  Iteration: 0,  Instance: /gray_bin_selfcheck_tb,  Process: stimulus.
+# EXECUTION:: ERROR  : Error for input 0111.
+# EXECUTION:: Time: 160 ns,  Iteration: 0,  Instance: /gray_bin_selfcheck_tb,  Process: stimulus.
+# EXECUTION:: ERROR  : Error for input 1000.
+# EXECUTION:: Time: 180 ns,  Iteration: 0,  Instance: /gray_bin_selfcheck_tb,  Process: stimulus.
+# EXECUTION:: ERROR  : Error for input 1001.
+# EXECUTION:: Time: 200 ns,  Iteration: 0,  Instance: /gray_bin_selfcheck_tb,  Process: stimulus.
+# EXECUTION:: ERROR  : Error for input 1010.
+# EXECUTION:: Time: 220 ns,  Iteration: 0,  Instance: /gray_bin_selfcheck_tb,  Process: stimulus.
+# EXECUTION:: ERROR  : Error for input 1011.
+# EXECUTION:: Time: 240 ns,  Iteration: 0,  Instance: /gray_bin_selfcheck_tb,  Process: stimulus.
+# EXECUTION:: ERROR  : Error for input 1100.
+# EXECUTION:: Time: 260 ns,  Iteration: 0,  Instance: /gray_bin_selfcheck_tb,  Process: stimulus.
+# EXECUTION:: ERROR  : Error for input 1101.
+# EXECUTION:: Time: 280 ns,  Iteration: 0,  Instance: /gray_bin_selfcheck_tb,  Process: stimulus.
+# EXECUTION:: ERROR  : Error for input 1110.
+# EXECUTION:: Time: 300 ns,  Iteration: 0,  Instance: /gray_bin_selfcheck_tb,  Process: stimulus.
+# EXECUTION:: ERROR  : Error for input 1111.
+# EXECUTION:: Time: 320 ns,  Iteration: 0,  Instance: /gray_bin_selfcheck_tb,  Process: stimulus.
+# KERNEL: stopped at time: 330 ns
+# KERNEL: Simulation has finished. There are no more test vectors to simulate.
+restart
+# ELBREAD: Elaboration process.
+# ELBREAD: Elaboration time 0.0 [s].
+# 
+# KERNEL: Main thread initiated.
+# KERNEL: Kernel process initialization phase.
+# KERNEL: Time resolution set to 1ps.
+# ELAB2: Elaboration final pass...
+# ELAB2: Create instances ...
+# ELAB2: Create instances complete.
+# SLP: Started
+# SLP: Elaboration phase ...
+# SLP: Elaboration phase ... skipped, nothing to simulate in SLP mode : 0.0 [s]
+# SLP: Finished : 0.0 [s]
+# ELAB2: Elaboration final pass complete - time: 0.0 [s].
+# KERNEL: Warning: You are using the Active-HDL Student Edition. The performance of simulation is running at a reduced rate.
+# KERNEL: Warning: Contact Aldec for available upgrade options - sales@aldec.com.
+# KERNEL: Kernel process initialization done.
+# Allocation: Simulator allocated 6066 kB (elbread=1280 elab2=4648 kernel=138 sdf=0)
+# KERNEL: ASDB file was created in location c:\My_Designs\lab05\lab05\src\wave.asdb
+#  10:59 PM, Tuesday, March 3, 2020
+#  Simulation has been initialized
+# KERNEL: Warning: KERNEL_0291 Signal '/gray_bin_selfcheck_tb/UUT/g' has already been traced.
+# KERNEL: Warning: KERNEL_0291 Signal '/gray_bin_selfcheck_tb/UUT/b' has already been traced.
+# 0 signal(s) traced.
+# Waveform file 'untitled.awc' connected to 'c:/My_Designs/lab05/lab05/src/wave.asdb'.
+run 330 ns
+# EXECUTION:: ERROR  : Error for input 0000.
+# EXECUTION:: Time: 20 ns,  Iteration: 0,  Instance: /gray_bin_selfcheck_tb,  Process: stimulus.
+# EXECUTION:: ERROR  : Error for input 0001.
+# EXECUTION:: Time: 40 ns,  Iteration: 0,  Instance: /gray_bin_selfcheck_tb,  Process: stimulus.
+# EXECUTION:: ERROR  : Error for input 0010.
+# EXECUTION:: Time: 60 ns,  Iteration: 0,  Instance: /gray_bin_selfcheck_tb,  Process: stimulus.
+# EXECUTION:: ERROR  : Error for input 0011.
+# EXECUTION:: Time: 80 ns,  Iteration: 0,  Instance: /gray_bin_selfcheck_tb,  Process: stimulus.
+# EXECUTION:: ERROR  : Error for input 0100.
+# EXECUTION:: Time: 100 ns,  Iteration: 0,  Instance: /gray_bin_selfcheck_tb,  Process: stimulus.
+# EXECUTION:: ERROR  : Error for input 0101.
+# EXECUTION:: Time: 120 ns,  Iteration: 0,  Instance: /gray_bin_selfcheck_tb,  Process: stimulus.
+# EXECUTION:: ERROR  : Error for input 0110.
+# EXECUTION:: Time: 140 ns,  Iteration: 0,  Instance: /gray_bin_selfcheck_tb,  Process: stimulus.
+# EXECUTION:: ERROR  : Error for input 0111.
+# EXECUTION:: Time: 160 ns,  Iteration: 0,  Instance: /gray_bin_selfcheck_tb,  Process: stimulus.
+# EXECUTION:: ERROR  : Error for input 1000.
+# EXECUTION:: Time: 180 ns,  Iteration: 0,  Instance: /gray_bin_selfcheck_tb,  Process: stimulus.
+# EXECUTION:: ERROR  : Error for input 1001.
+# EXECUTION:: Time: 200 ns,  Iteration: 0,  Instance: /gray_bin_selfcheck_tb,  Process: stimulus.
+# EXECUTION:: ERROR  : Error for input 1010.
+# EXECUTION:: Time: 220 ns,  Iteration: 0,  Instance: /gray_bin_selfcheck_tb,  Process: stimulus.
+# EXECUTION:: ERROR  : Error for input 1011.
+# EXECUTION:: Time: 240 ns,  Iteration: 0,  Instance: /gray_bin_selfcheck_tb,  Process: stimulus.
+# EXECUTION:: ERROR  : Error for input 1100.
+# EXECUTION:: Time: 260 ns,  Iteration: 0,  Instance: /gray_bin_selfcheck_tb,  Process: stimulus.
+# EXECUTION:: ERROR  : Error for input 1101.
+# EXECUTION:: Time: 280 ns,  Iteration: 0,  Instance: /gray_bin_selfcheck_tb,  Process: stimulus.
+# EXECUTION:: ERROR  : Error for input 1110.
+# EXECUTION:: Time: 300 ns,  Iteration: 0,  Instance: /gray_bin_selfcheck_tb,  Process: stimulus.
+# EXECUTION:: ERROR  : Error for input 1111.
+# EXECUTION:: Time: 320 ns,  Iteration: 0,  Instance: /gray_bin_selfcheck_tb,  Process: stimulus.
+# KERNEL: stopped at time: 330 ns
+# KERNEL: Simulation has finished. There are no more test vectors to simulate.
+acom -dbg -e 100 -work lab05 -2008  $dsn/src/gray_bin_selfcheck_tb_vect.vhd $dsn/src/gray_bin_loop.vhd
+# File: c:\My_Designs\lab05\lab05\src\gray_bin_selfcheck_tb_vect.vhd
+# Compile Entity "gray_bin_selfcheck_tb"
+# Compile Architecture "tb_architecture" of Entity "gray_bin_selfcheck_tb"
+# File: c:\My_Designs\lab05\lab05\src\gray_bin_loop.vhd
+# Compile Entity "gray_bin"
+# Compile Architecture "gray_bin_loop" of Entity "gray_bin"
+# Error: COMP96_0019: gray_bin_loop.vhd : (15, 3): Keyword 'end' expected.
+# Error: COMP96_0329: gray_bin_loop.vhd : (16, 3): Generate statement must have a label.
+# Error: COMP96_0019: gray_bin_loop.vhd : (16, 19): Keyword 'generate' expected.
+# Error: COMP96_0015: gray_bin_loop.vhd : (18, 7): ';' expected.
+# Error: COMP96_0016: gray_bin_loop.vhd : (18, 11): Design unit declaration expected.
+# Compile failure 5 Errors 0 Warnings  Analysis time :  78.0 [ms]
+acom -dbg -e 100 -work lab05 -2008  $dsn/src/gray_bin_selfcheck_tb_vect.vhd $dsn/src/gray_bin_loop.vhd
+# File: c:\My_Designs\lab05\lab05\src\gray_bin_selfcheck_tb_vect.vhd
+# Compile Entity "gray_bin_selfcheck_tb"
+# Compile Architecture "tb_architecture" of Entity "gray_bin_selfcheck_tb"
+# File: c:\My_Designs\lab05\lab05\src\gray_bin_loop.vhd
+# Compile Entity "gray_bin"
+# Compile Architecture "gray_bin_loop" of Entity "gray_bin"
+# Error: COMP96_0020: gray_bin_loop.vhd : (11, 2): Variable can be declared only in a process or subprogram.
+# Compile failure 1 Errors 0 Warnings  Analysis time :  94.0 [ms]
+acom -dbg -e 100 -work lab05 -2008  $dsn/src/gray_bin_selfcheck_tb_vect.vhd $dsn/src/gray_bin_loop.vhd
+# File: c:\My_Designs\lab05\lab05\src\gray_bin_selfcheck_tb_vect.vhd
+# Compile Entity "gray_bin_selfcheck_tb"
+# Compile Architecture "tb_architecture" of Entity "gray_bin_selfcheck_tb"
+# File: c:\My_Designs\lab05\lab05\src\gray_bin_loop.vhd
+# Compile Entity "gray_bin"
+# Compile Architecture "gray_bin_loop" of Entity "gray_bin"
+# Error: COMP96_0019: gray_bin_loop.vhd : (15, 3): Keyword 'end' expected.
+# Error: COMP96_0329: gray_bin_loop.vhd : (16, 3): Generate statement must have a label.
+# Error: COMP96_0019: gray_bin_loop.vhd : (16, 19): Keyword 'generate' expected.
+# Error: COMP96_0015: gray_bin_loop.vhd : (18, 7): ';' expected.
+# Error: COMP96_0016: gray_bin_loop.vhd : (18, 11): Design unit declaration expected.
+# Compile failure 5 Errors 0 Warnings  Analysis time :  0.1 [s]
+acom -dbg -e 100 -work lab05 -2008  $dsn/src/gray_bin_selfcheck_tb_vect.vhd $dsn/src/gray_bin_loop.vhd
+# File: c:\My_Designs\lab05\lab05\src\gray_bin_selfcheck_tb_vect.vhd
+# Compile Entity "gray_bin_selfcheck_tb"
+# Compile Architecture "tb_architecture" of Entity "gray_bin_selfcheck_tb"
+# File: c:\My_Designs\lab05\lab05\src\gray_bin_loop.vhd
+# Compile Entity "gray_bin"
+# Compile Architecture "gray_bin_loop" of Entity "gray_bin"
+# Error: COMP96_0019: gray_bin_loop.vhd : (14, 3): Keyword 'end' expected.
+# Error: COMP96_0015: gray_bin_loop.vhd : (15, 6): ';' expected.
+# Error: COMP96_0016: gray_bin_loop.vhd : (15, 14): Design unit declaration expected.
+# Compile failure 3 Errors 0 Warnings  Analysis time :  94.0 [ms]
+acom -dbg -e 100 -work lab05 -2008  $dsn/src/gray_bin_selfcheck_tb_vect.vhd $dsn/src/gray_bin_loop.vhd
+# File: c:\My_D

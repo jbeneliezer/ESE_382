@@ -1,0 +1,255 @@
+# Design: Design gray_bin_csop already active.
+# 
+# DESIGN: Default Design Language: VHDL
+# DESIGN: Default BDE Language: VHDL
+# DESIGN: Flow Manager: Not Defined
+acom -reorder -O3 -e 100 -work gray_bin_csop -2002  $dsn/src/gray_bin_csop.vhd $dsn/src/gray_bin_TB.vhd
+# Warning: DAGGEN_0523: The source is compiled without the -dbg switch. Line breakpoints and assertion debug will not be available.
+# File: c:\My_Designs\gray_to_binary\gray_bin_csop\src\gray_bin_csop.vhd
+# Compile Architecture "dataflow" of Entity "gray_bin"
+# File: c:\My_Designs\gray_to_binary\gray_bin_csop\src\gray_bin_TB.vhd
+# Compile Entity "gray_bin_tb"
+# Compile Architecture "non_self_checking" of Entity "gray_bin_tb"
+# Incorrect order of units detected.
+# Automatic reorder and incremental recompilation of required units in progress.
+# File: c:\My_Designs\gray_to_binary\gray_bin_csop\src\gray_bin_csop.vhd
+# Compile Architecture "dataflow" of Entity "gray_bin"
+# File: c:\My_Designs\gray_to_binary\gray_bin_csop\src\gray_bin_TB.vhd
+# Compile Architecture "non_self_checking" of Entity "gray_bin_tb"
+# File: c:\My_Designs\gray_to_binary\gray_bin_csop\src\gray_bin_csop.vhd
+# Compile Architecture "dataflow" of Entity "gray_bin"
+# File: c:\My_Designs\gray_to_binary\gray_bin_csop\src\gray_bin_TB.vhd
+# Compile Architecture "non_self_checking" of Entity "gray_bin_tb"
+# File: c:\My_Designs\gray_to_binary\gray_bin_csop\src\gray_bin_csop.vhd
+# Compile Architecture "dataflow" of Entity "gray_bin"
+# File: c:\My_Designs\gray_to_binary\gray_bin_csop\src\gray_bin_TB.vhd
+# Compile Architecture "non_self_checking" of Entity "gray_bin_tb"
+# Error: COMP96_0016: gray_bin_csop.vhd : (1, 1): Design unit declaration expected.
+# Error: COMP96_0015: gray_bin_csop.vhd : (4, 1): ';' expected.
+# Error: COMP96_0016: gray_bin_csop.vhd : (4, 8): Design unit declaration expected.
+# Error: COMP96_0016: gray_bin_csop.vhd : (4, 17): Design unit declaration expected.
+# Error: COMP96_0056: gray_bin_csop.vhd : (12, 1): Cannot find referenced entity declaration "gray_bin".
+# Error: COMP96_0078: gray_bin_TB.vhd : (22, 15): Unknown identifier "gray_bin".
+# Error: COMP96_0056: gray_bin_TB.vhd : (22, 15): Cannot find referenced entity declaration "gray_bin".
+# Error: COMP96_0055: gray_bin_TB.vhd : (22, 15): Cannot find context item "gray_bin".
+# Compile failure 8 Errors 0 Warnings  Analysis time :  0.6 [s]
+acom -O3 -e 100 -work gray_bin_csop -2002  $dsn/src/gray_bin_csop.vhd $dsn/src/gray_bin_TB.vhd
+# Warning: DAGGEN_0523: The source is compiled without the -dbg switch. Line breakpoints and assertion debug will not be available.
+# File: c:\My_Designs\gray_to_binary\gray_bin_csop\src\gray_bin_csop.vhd
+# Error: COMP96_0016: gray_bin_csop.vhd : (1, 1): Design unit declaration expected.
+# Compile Entity "gray_bin"
+# Error: COMP96_0018: gray_bin_csop.vhd : (9, 2): Identifier expected.
+# Compile Architecture "dataflow" of Entity "gray_bin"
+# Error: COMP96_0056: gray_bin_csop.vhd : (12, 1): Cannot find referenced entity declaration "gray_bin".
+# File: c:\My_Designs\gray_to_binary\gray_bin_csop\src\gray_bin_TB.vhd
+# Compile Entity "gray_bin_tb"
+# Compile Architecture "non_self_checking" of Entity "gray_bin_tb"
+# Error: COMP96_0078: gray_bin_TB.vhd : (22, 15): Unknown identifier "gray_bin".
+# Error: COMP96_0056: gray_bin_TB.vhd : (22, 15): Cannot find referenced entity declaration "gray_bin".
+# Error: COMP96_0055: gray_bin_TB.vhd : (22, 15): Cannot find context item "gray_bin".
+# Compile failure 6 Errors 0 Warnings  Analysis time :  0.1 [s]
+acom -O3 -e 100 -work gray_bin_csop -2002  $dsn/src/gray_bin_csop.vhd $dsn/src/gray_bin_TB.vhd
+# Warning: DAGGEN_0523: The source is compiled without the -dbg switch. Line breakpoints and assertion debug will not be available.
+# File: c:\My_Designs\gray_to_binary\gray_bin_csop\src\gray_bin_csop.vhd
+# Error: COMP96_0016: gray_bin_csop.vhd : (1, 1): Design unit declaration expected.
+# Compile Entity "gray_bin"
+# Error: COMP96_0078: gray_bin_csop.vhd : (2, 5): Unknown identifier "ieee".
+# Error: COMP96_0078: gray_bin_csop.vhd : (7, 18): Unknown identifier "std_logic".
+# Error: COMP96_0064: gray_bin_csop.vhd : (7, 18): Unknown type.
+# Error: COMP96_0078: gray_bin_csop.vhd : (8, 19): Unknown identifier "std_logic".
+# Error: COMP96_0064: gray_bin_csop.vhd : (8, 19): Unknown type.
+# Compile Architecture "dataflow" of Entity "gray_bin"
+# Error: COMP96_0056: gray_bin_csop.vhd : (12, 1): Cannot find referenced entity declaration "gray_bin".
+# File: c:\My_Designs\gray_to_binary\gray_bin_csop\src\gray_bin_TB.vhd
+# Compile Entity "gray_bin_tb"
+# Compile Architecture "non_self_checking" of Entity "gray_bin_tb"
+# Error: COMP96_0078: gray_bin_TB.vhd : (22, 15): Unknown identifier "gray_bin".
+# Error: COMP96_0056: gray_bin_TB.vhd : (22, 15): Cannot find referenced entity declaration "gray_bin".
+# Error: COMP96_0055: gray_bin_TB.vhd : (22, 15): Cannot find context item "gray_bin".
+# Compile failure 10 Errors 0 Warnings  Analysis time :  0.1 [s]
+acom -O3 -e 100 -work gray_bin_csop -2002  $dsn/src/gray_bin_csop.vhd $dsn/src/gray_bin_TB.vhd
+# Warning: DAGGEN_0523: The source is compiled without the -dbg switch. Line breakpoints and assertion debug will not be available.
+# File: c:\My_Designs\gray_to_binary\gray_bin_csop\src\gray_bin_csop.vhd
+# Compile Entity "gray_bin"
+# Compile Architecture "dataflow" of Entity "gray_bin"
+# File: c:\My_Designs\gray_to_binary\gray_bin_csop\src\gray_bin_TB.vhd
+# Compile Entity "gray_bin_tb"
+# Compile Architecture "non_self_checking" of Entity "gray_bin_tb"
+# Compile success 0 Errors 0 Warnings  Analysis time :  0.3 [s]
+# ELBREAD: Elaboration process.
+# ELBREAD: Elaboration time 0.1 [s].
+# ELBREAD: Elaboration process.
+# ELBREAD: Elaboration time 0.0 [s].
+asim -O5 +access +r +m+gray_bin_tb gray_bin_tb non_self_checking
+# ELBREAD: Elaboration process.
+# ELBREAD: Elaboration time 0.2 [s].
+# VSIM: Stack memory: 32MB
+# VSIM: Retval memory: 32MB
+# 
+# KERNEL: Main thread initiated.
+# KERNEL: Kernel process initialization phase.
+# KERNEL: Time resolution set to 1ps.
+# ELAB2: Elaboration final pass...
+# ELAB2: Create instances ...
+# ELAB2: Create instances complete.
+# SLP: Started
+# SLP: Elaboration phase ...
+# SLP: Elaboration phase ... skipped, nothing to simulate in SLP mode : 0.0 [s]
+# SLP: Finished : 0.0 [s]
+# ELAB2: Elaboration final pass complete - time: 0.9 [s].
+# KERNEL: Warning: You are using the Active-HDL Student Edition. The performance of simulation is running at a reduced rate.
+# KERNEL: Warning: Contact Aldec for available upgrade options - sales@aldec.com.
+# KERNEL: Kernel process initialization done.
+# Allocation: Simulator allocated 7089 kB (elbread=1280 elab2=5671 kernel=137 sdf=0)
+# KERNEL: ASDB file was created in location c:\My_Designs\gray_to_binary\gray_bin_csop\src\wave.asdb
+#  8:34 PM, Tuesday, February 18, 2020
+#  Simulation has been initialized
+# Error:  You do not have a valid license to run Advanced Dataflow. Contact Aldec for ordering information sales@aldec.com
+run
+# KERNEL: Simulation has finished. There are no more test vectors to simulate.
+# 8 signal(s) traced.
+# Waveform file 'untitled.awc' connected to 'c:/My_Designs/gray_to_binary/gray_bin_csop/src/wave.asdb'.
+run
+# KERNEL: Simulation has finished. There are no more test vectors to simulate.
+endsim
+# VSIM: Simulation has finished.
+asim -O5 +access +r +m+gray_bin_tb gray_bin_tb non_self_checking
+# ELBREAD: Elaboration process.
+# ELBREAD: Elaboration time 0.3 [s].
+# VSIM: Stack memory: 32MB
+# VSIM: Retval memory: 32MB
+# 
+# KERNEL: Main thread initiated.
+# KERNEL: Kernel process initialization phase.
+# KERNEL: Time resolution set to 1ps.
+# ELAB2: Elaboration final pass...
+# ELAB2: Create instances ...
+# ELAB2: Create instances complete.
+# SLP: Started
+# SLP: Elaboration phase ...
+# SLP: Elaboration phase ... skipped, nothing to simulate in SLP mode : 0.0 [s]
+# SLP: Finished : 0.0 [s]
+# ELAB2: Elaboration final pass complete - time: 0.1 [s].
+# KERNEL: Warning: You are using the Active-HDL Student Edition. The performance of simulation is running at a reduced rate.
+# KERNEL: Warning: Contact Aldec for available upgrade options - sales@aldec.com.
+# KERNEL: Kernel process initialization done.
+# Allocation: Simulator allocated 7089 kB (elbread=1280 elab2=5671 kernel=137 sdf=0)
+# KERNEL: ASDB file was created in location c:\My_Designs\gray_to_binary\gray_bin_csop\src\wave.asdb
+#  8:47 PM, Tuesday, February 18, 2020
+#  Simulation has been initialized
+# Waveform file 'untitled.awc' connected to 'c:/My_Designs/gray_to_binary/gray_bin_csop/src/wave.asdb'.
+run 300 ns
+# KERNEL: stopped at time: 300 ns
+run 20 ns
+# KERNEL: Simulation has finished. There are no more test vectors to simulate.
+# Adding file c:\My_Designs\gray_to_binary\gray_bin_csop\src\csop_graybin_wv.awc ... Done
+acom -O3 -e 100 -work gray_bin_csop -2002  $dsn/src/gray_bin_cpos.vhd
+# Warning: DAGGEN_0523: The source is compiled without the -dbg switch. Line breakpoints and assertion debug will not be available.
+# File: c:\My_Designs\gray_to_binary\gray_bin_csop\src\gray_bin_cpos.vhd
+# Compile Entity "gray_bin"
+# Error: COMP96_0015: gray_bin_cpos.vhd : (12, 1): ';' expected.
+# Error: COMP96_0016: gray_bin_cpos.vhd : (12, 14): Design unit declaration expected.
+# Compile failure 2 Errors 0 Warnings  Analysis time :  0.2 [s]
+acom -O3 -e 100 -work gray_bin_csop -2002  $dsn/src/gray_bin_cpos.vhd
+# Warning: DAGGEN_0523: The source is compiled without the -dbg switch. Line breakpoints and assertion debug will not be available.
+# File: c:\My_Designs\gray_to_binary\gray_bin_csop\src\gray_bin_cpos.vhd
+# Compile Entity "gray_bin"
+# Error: COMP96_0055: gray_bin_cpos.vhd : (2, 10): Cannot find context item "ieee.std_logic_1176".
+# Error: COMP96_0078: gray_bin_cpos.vhd : (7, 18): Unknown identifier "std_logic".
+# Error: COMP96_0064: gray_bin_cpos.vhd : (7, 18): Unknown type.
+# Error: COMP96_0078: gray_bin_cpos.vhd : (8, 19): Unknown identifier "std_logic".
+# Error: COMP96_0064: gray_bin_cpos.vhd : (8, 19): Unknown type.
+# Compile Architecture "dataflow" of Entity "gray_bin"
+# Compile failure 5 Errors 0 Warnings  Analysis time :  0.3 [s]
+acom -O3 -e 100 -work gray_bin_csop -2002  $dsn/src/gray_bin_cpos.vhd
+# Warning: DAGGEN_0523: The source is compiled without the -dbg switch. Line breakpoints and assertion debug will not be available.
+# File: c:\My_Designs\gray_to_binary\gray_bin_csop\src\gray_bin_cpos.vhd
+# Compile Entity "gray_bin"
+# Compile Architecture "dataflow" of Entity "gray_bin"
+# Compile success 0 Errors 0 Warnings  Analysis time :  0.1 [s]
+acom -O3 -e 100 -work gray_bin_csop -2002  $dsn/src/gray_bin_csop.vhd
+# Warning: DAGGEN_0523: The source is compiled without the -dbg switch. Line breakpoints and assertion debug will not be available.
+# File: c:\My_Designs\gray_to_binary\gray_bin_csop\src\gray_bin_csop.vhd
+# Compile Entity "gray_bin"
+# Compile Architecture "dataflow" of Entity "gray_bin"
+# Compile success 0 Errors 0 Warnings  Analysis time :  0.3 [s]
+acom -O3 -e 100 -work gray_bin_csop -2002  $dsn/src/gray_bin_TB.vhd $dsn/src/gray_bin_cpos.vhd
+# Warning: DAGGEN_0523: The source is compiled without the -dbg switch. Line breakpoints and assertion debug will not be available.
+# File: c:\My_Designs\gray_to_binary\gray_bin_csop\src\gray_bin_TB.vhd
+# Compile Entity "gray_bin_tb"
+# Compile Architecture "non_self_checking" of Entity "gray_bin_tb"
+# File: c:\My_Designs\gray_to_binary\gray_bin_csop\src\gray_bin_cpos.vhd
+# Compile Entity "gray_bin"
+# Compile Architecture "dataflow" of Entity "gray_bin"
+# Compile success 0 Errors 0 Warnings  Analysis time :  0.4 [s]
+acom -O3 -e 100 -work gray_bin_csop -2002  $dsn/src/gray_bin_TB.vhd
+# Warning: DAGGEN_0523: The source is compiled without the -dbg switch. Line breakpoints and assertion debug will not be available.
+# File: c:\My_Designs\gray_to_binary\gray_bin_csop\src\gray_bin_TB.vhd
+# Compile Entity "gray_bin_tb"
+# Compile Architecture "non_self_checking" of Entity "gray_bin_tb"
+# Compile success 0 Errors 0 Warnings  Analysis time :  0.1 [s]
+# ELBREAD: Elaboration process.
+# ELBREAD: Elaboration time 0.0 [s].
+asim -O5 +access +r +m+gray_bin_tb gray_bin_tb non_self_checking
+# ELBREAD: Elaboration process.
+# ELBREAD: Elaboration time 0.0 [s].
+# VSIM: Stack memory: 32MB
+# VSIM: Retval memory: 32MB
+# 
+# KERNEL: Main thread initiated.
+# KERNEL: Kernel process initialization phase.
+# KERNEL: Time resolution set to 1ps.
+# ELAB2: Elaboration final pass...
+# ELAB2: Create instances ...
+# ELAB2: Create instances complete.
+# SLP: Started
+# SLP: Elaboration phase ...
+# SLP: Elaboration phase ... skipped, nothing to simulate in SLP mode : 0.0 [s]
+# SLP: Finished : 0.0 [s]
+# ELAB2: Elaboration final pass complete - time: 0.1 [s].
+# KERNEL: Warning: You are using the Active-HDL Student Edition. The performance of simulation is running at a reduced rate.
+# KERNEL: Warning: Contact Aldec for available upgrade options - sales@aldec.com.
+# KERNEL: Kernel process initialization done.
+# Allocation: Simulator allocated 7089 kB (elbread=1280 elab2=5671 kernel=137 sdf=0)
+# KERNEL: ASDB file was created in location c:\My_Designs\gray_to_binary\gray_bin_csop\src\wave.asdb
+#  9:26 PM, Tuesday, February 18, 2020
+#  Simulation has been initialized
+# Waveform file 'c:/My_Designs/gray_to_binary/gray_bin_csop/src/csop_graybin_wv.awc' connected to 'c:/My_Designs/gray_to_binary/gray_bin_csop/src/wave.asdb'.
+run 320 ns
+# KERNEL: Simulation has finished. There are no more test vectors to simulate.
+# KERNEL: Warning: KERNEL_0291 Signal '/gray_bin_tb/g3_tb' has already been traced.
+# KERNEL: Warning: KERNEL_0291 Signal '/gray_bin_tb/g2_tb' has already been traced.
+# KERNEL: Warning: KERNEL_0291 Signal '/gray_bin_tb/g1_tb' has already been traced.
+# KERNEL: Warning: KERNEL_0291 Signal '/gray_bin_tb/g0_tb' has already been traced.
+# KERNEL: Warning: KERNEL_0291 Signal '/gray_bin_tb/b3_tb' has already been traced.
+# KERNEL: Warning: KERNEL_0291 Signal '/gray_bin_tb/b2_tb' has already been traced.
+# KERNEL: Warning: KERNEL_0291 Signal '/gray_bin_tb/b1_tb' has already been traced.
+# KERNEL: Warning: KERNEL_0291 Signal '/gray_bin_tb/b0_tb' has already been traced.
+# 0 signal(s) traced.
+# Waveform file 'untitled.awc' connected to 'c:/My_Designs/gray_to_binary/gray_bin_csop/src/wave.asdb'.
+run 320 ns
+# KERNEL: stopped at time: 640 ns
+# KERNEL: Simulation has finished. There are no more test vectors to simulate.
+restart
+# ELBREAD: Elaboration process.
+# ELBREAD: Elaboration time 0.0 [s].
+# 
+# KERNEL: Main thread initiated.
+# KERNEL: Kernel process initialization phase.
+# KERNEL: Time resolution set to 1ps.
+# ELAB2: Elaboration final pass...
+# ELAB2: Create instances ...
+# ELAB2: Create instances complete.
+# SLP: Started
+# SLP: Elaboration phase ...
+# SLP: Elaboration phase ... skipped, nothing to simulate in SLP mode : 0.0 [s]
+# SLP: Finished : 0.0 [s]
+# ELAB2: Elaboration final pass complete - time: 0.1 [s].
+# KERNEL: Warning: You are using the Active-HDL Student Edition. The performance of simulation is running at a reduced rate.
+# KERNEL: Warning: Contact Aldec for available upgrade options - sales@aldec.com.
+# KERNEL: Kernel process initialization done.
+# Allocation: Simulator allocated 7089 kB (elbread=1280 elab2=5671 kernel=137 sdf=0)
+# KERNEL: ASDB file was created in location c:\My_Designs\gray_to_binary\gray_bin_csop\src\wave.asdb
+#  9:26 PM, Tuesday, February 18, 2020
+#  Simulation has been initialized
+# Waveform file 'c:/My_Designs/gray_to_binary/gray_bin_csop/src/csop_graybin_wv.awc' connected to 'c:/My_Designs/

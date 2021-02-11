@@ -1,0 +1,122 @@
+# ELBREAD: Elaboration process.
+# ELBREAD: Elaboration time 0.0 [s].
+# Waveform file 'f:/labs/lab02/lab02/src/Waveform_VHDL_source.awc' connected to 'f:/labs/lab02/lab02/src/Waveform_VHDL_source.asdb'.
+acom -dbg -e 100 -work lab02 -2008  $dsn/src/half_adder_tb.vhd $dsn/src/lab02.vhm
+# File: f:\labs\lab02\lab02\src\half_adder_tb.vhd
+# Compile Entity "testbench"
+# Compile Architecture "behavior" of Entity "testbench"
+# File: f:\labs\lab02\lab02\src\lab02.vhm
+# Compile Entity "AND2"
+# Compile Architecture "beh" of Entity "AND2"
+# Compile Entity "IBUF"
+# Compile Architecture "beh" of Entity "IBUF"
+# Compile Entity "INV"
+# Compile Architecture "beh" of Entity "INV"
+# Compile Entity "OBUF"
+# Compile Architecture "beh" of Entity "OBUF"
+# Compile Entity "XOR2"
+# Compile Architecture "beh" of Entity "XOR2"
+# Compile Entity "half_adder"
+# Compile Architecture "beh" of Entity "half_adder"
+# Compile success 0 Errors 0 Warnings  Analysis time :  0.3 [s]
+# ELBREAD: Elaboration process.
+# ELBREAD: Error: The contents of entity 'lab02.half_adder' instantiated in architecture 'behavior:testbench' differ from the contents available during the compilation of this architecture.
+# ELBREAD: Error: Elaboration process completed with errors.
+# Design: Error: Elaboration failed
+acom -dbg -e 100 -work lab02 -2008  $dsn/src/half_adder_tb.vhd $dsn/src/lab02.vhm
+# File: f:\labs\lab02\lab02\src\half_adder_tb.vhd
+# Compile Entity "testbench"
+# Compile Architecture "behavior" of Entity "testbench"
+# File: f:\labs\lab02\lab02\src\lab02.vhm
+# Compile Entity "AND2"
+# Compile Architecture "beh" of Entity "AND2"
+# Compile Entity "IBUF"
+# Compile Architecture "beh" of Entity "IBUF"
+# Compile Entity "INV"
+# Compile Architecture "beh" of Entity "INV"
+# Compile Entity "OBUF"
+# Compile Architecture "beh" of Entity "OBUF"
+# Compile Entity "XOR2"
+# Compile Architecture "beh" of Entity "XOR2"
+# Compile Entity "half_adder"
+# Compile Architecture "beh" of Entity "half_adder"
+# Compile success 0 Errors 0 Warnings  Analysis time :  0.1 [s]
+# Design: Design lab02 already active.
+# 
+# ELBREAD: Elaboration process.
+# ELBREAD: Elaboration time 0.0 [s].
+# ELBREAD: Elaboration process.
+# ELBREAD: Elaboration time 0.0 [s].
+asim -O5 +access +r +m+testbench testbench behavior
+# ELBREAD: Elaboration process.
+# ELBREAD: Elaboration time 0.0 [s].
+# VSIM: Stack memory: 32MB
+# VSIM: Retval memory: 32MB
+# 
+# KERNEL: Main thread initiated.
+# KERNEL: Kernel process initialization phase.
+# ELAB2: Elaboration final pass...
+# ELAB2: Create instances ...
+# KERNEL: Time resolution set to 1ps.
+# ELAB2: Create instances complete.
+# SLP: Started
+# SLP: Elaboration phase ...
+# SLP: Elaboration phase ... skipped, nothing to simulate in SLP mode : 0.0 [s]
+# SLP: Finished : 0.0 [s]
+# ELAB2: Elaboration final pass complete - time: 0.1 [s].
+# KERNEL: Warning: You are using the Active-HDL EDU Edition. The performance of simulation is running at a reduced rate.
+# KERNEL: Warning: Contact Aldec for available upgrade options - sales@aldec.com.
+# KERNEL: Kernel process initialization done.
+# Allocation: Simulator allocated 7096 kB (elbread=1280 elab2=5677 kernel=138 sdf=0)
+# KERNEL: ASDB file was created in location f:\labs\lab02\lab02\src\wave.asdb
+#  9:59 AM, Wednesday, February 12, 2020
+#  Simulation has been initialized
+# add wave -noreg {/testbench/a_tb}
+# add wave -noreg {/testbench/b_tb}
+# add wave -noreg {/testbench/sum_tb}
+# add wave -noreg {/testbench/carry_out_tb}
+# add wave -noreg {/testbench/a_tb}
+# add wave -noreg {/testbench/b_tb}
+# add wave -noreg {/testbench/sum_tb}
+# add wave -noreg {/testbench/carry_out_tb}
+# 4 signal(s) traced.
+# Waveform file 'untitled.awc' connected to 'f:/labs/lab02/lab02/src/wave.asdb'.
+run @100ns
+# KERNEL: stopped at time: 100 ns
+# KERNEL: Simulation has finished. There are no more test vectors to simulate.
+restart
+# ELBREAD: Elaboration process.
+# ELBREAD: Elaboration time 0.0 [s].
+# 
+# KERNEL: Main thread initiated.
+# KERNEL: Kernel process initialization phase.
+# ELAB2: Elaboration final pass...
+# ELAB2: Create instances ...
+# KERNEL: Time resolution set to 1ps.
+# ELAB2: Create instances complete.
+# SLP: Started
+# SLP: Elaboration phase ...
+# SLP: Elaboration phase ... skipped, nothing to simulate in SLP mode : 0.0 [s]
+# SLP: Finished : 0.0 [s]
+# ELAB2: Elaboration final pass complete - time: 0.0 [s].
+# KERNEL: Warning: You are using the Active-HDL EDU Edition. The performance of simulation is running at a reduced rate.
+# KERNEL: Warning: Contact Aldec for available upgrade options - sales@aldec.com.
+# KERNEL: Kernel process initialization done.
+# Allocation: Simulator allocated 7096 kB (elbread=1280 elab2=5677 kernel=138 sdf=0)
+# KERNEL: ASDB file was created in location f:\labs\lab02\lab02\src\wave.asdb
+#  10:00 AM, Wednesday, February 12, 2020
+#  Simulation has been initialized
+# Waveform file 'untitled.awc' connected to 'f:/labs/lab02/lab02/src/wave.asdb'.
+run 80 ns
+# KERNEL: Simulation has finished. There are no more test vectors to simulate.
+# wavecompare -tolerance 0 -df 1000000 -ds 100000 -offset 0 -o f:/labs/lab02/lab02/src/Waveform_VHDL_source.log f:/labs/lab02/lab02/src/wave.asdb f:/labs/lab02/lab02/src/Waveform_VHDL_source.asdb
+# 4 signal(s) compared, 5 difference(s) found in 2 signal(s)
+# Differences detected, double click on this line to view the log file 'f:/labs/lab02/lab02/src/Waveform_VHDL_source.log'.
+# 
+# Waveform file 'untitled.awc' connected to 'f:/labs/lab02/lab02/src/post_synthesis.asdb'.
+# Adding file f:\labs\lab02\lab02\src\post_synthesis.asdb ... Done
+# Adding file f:\labs\lab02\lab02\src\post_synthesis.awc ... Done
+# wavecompare -tolerance 0 -df 1000000 -ds 100000 -offset 0 -o f:/labs/lab02/lab02/src/Waveform_VHDL_source.log f:/labs/lab02/lab02/src/post_synthesis.asdb f:/labs/lab02/lab02/src/Waveform_VHDL_source.asdb
+# 4 signal(s) compared, 5 difference(s) found in 2 signal(s)
+# Differences detected, double click on this line to view the log file 'f:/labs/lab02/lab02/src/Waveform_VHDL_source.log'.
+# 

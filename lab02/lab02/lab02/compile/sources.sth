@@ -1,0 +1,10 @@
+[Files List]
+C:\Aldec\Active-HDL-10.5a\vlib\std/src/standard.vhd=S
+C:\Aldec\Active-HDL-10.5a\vlib\std/src/textio.vhd=S
+C:\Aldec\Active-HDL-10.5a\vlib\ieee/src/std_logic_1164.vhdl=S
+C:\Aldec\Active-HDL-10.5a\vlib\ieee/src/std_logic_1164-body.vhdl=S
+C:\Aldec\Active-HDL-10.5a\vlib\ieee/src/numeric_std.vhdl=S
+C:\Aldec\Active-HDL-10.5a\vlib\ieee/src/numeric_std-body.vhdl=S
+C:\Aldec\Active-HDL-10.5a\vlib\synplify/src/synplify.vhd=S
+f:\labs\lab02\lab02/src/lab02.vhm=S
+f:\labs\lab02\lab02/src/half_adder_tb.vhd=S

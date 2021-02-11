@@ -1,0 +1,1 @@
+-w -erf c:/My_Designs/gray_to_binary/gray_bin_csop/compile/gray_bin_csop.erf -d c:/My_Designs/gray_to_binary/gray_bin_csop/compile -s c:/My_Designs/gray_to_binary/library.cfg -j c:/My_Designs/gray_to_binary/gray_bin_csop/projlib.cfg -work gray_bin_csop -O3 -e 100 -work gray_bin_csop -2002 c:/My_Designs/gray_to_binary/gray_bin_csop/src/gray_bin_TB.vhd 

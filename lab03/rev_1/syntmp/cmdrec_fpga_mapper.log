@@ -1,0 +1,10 @@
+C:\Synopsys\fpga_O-2018.09-SP1\bin64\m_cpld.exe  -prodtype  synplify_pro  -encrypt  -pro  -rundir  F:\lab03\lab03\rev_1   -part ispGAL22V10C  -package LJ  -grade -10    -areadelay 0 -minc -RWCheckOnRam 1 -ovhdl "gray_bin_csop.vhm" -summaryfile F:\lab03\lab03\rev_1\synlog\report\gray_bin_csop_fpga_mapper.xml -merge_inferred_clocks 0  -multisrs  -oedif  F:\lab03\lab03\rev_1\gray_bin_csop.edf  F:\lab03\lab03\rev_1\synwork\gray_bin_csop_mult.srs  -devicelib  C:\Synopsys\fpga_O-2018.09-SP1\lib\cpld\lattice.v  -ologparam  F:\lab03\lab03\rev_1\syntmp\gray_bin_csop.plg  -osyn  F:\lab03\lab03\rev_1\gray_bin_csop.srm  -prjdir  F:\lab03\lab03\  -prjname  proj_1  -log  F:\lab03\lab03\rev_1\synlog\gray_bin_csop_fpga_mapper.srr  -sn  2018.09  -jobname  "fpga_mapper" 
+relcom:C:\Synopsys\fpga_O-2018.09-SP1\bin64\m_cpld.exe -prodtype synplify_pro -encrypt -pro -rundir ..\..\rev_1 -part ispGAL22V10C -package LJ -grade -10 -areadelay 0 -minc -RWCheckOnRam 1 -ovhdl "gray_bin_csop.vhm" -summaryfile ..\synlog\report\gray_bin_csop_fpga_mapper.xml -merge_inferred_clocks 0 -multisrs -oedif ..\gray_bin_csop.edf ..\synwork\gray_bin_csop_mult.srs -devicelib C:\Synopsys\fpga_O-2018.09-SP1\lib\cpld\lattice.v -ologparam gray_bin_csop.plg -osyn ..\gray_bin_csop.srm -prjdir ..\..\ -prjname proj_1 -log ..\synlog\gray_bin_csop_fpga_mapper.srr -sn 2018.09 -jobname "fpga_mapper"
+rc:0 success:1 runtime:0
+file:..\gray_bin_csop.edf|io:o|time:1582130582|size:7197|exec:0|csum:
+file:..\synwork\gray_bin_csop_mult.srs|io:i|time:1582130580|size:2218|exec:0|csum:B4F6B20D743034A90918F0A12B54040A
+file:C:\Synopsys\fpga_O-2018.09-SP1\lib\cpld\lattice.v|io:i|time:1543381616|size:210986|exec:0|csum:5A6E236E09BDE113BE12A03DD223912C
+file:gray_bin_csop.plg|io:o|time:1582130580|size:0|exec:0|csum:
+file:..\gray_bin_csop.srm|io:o|time:1582130582|size:5470|exec:0|csum:
+file:..\synlog\gray_bin_csop_fpga_mapper.srr|io:o|time:1582130582|size:1345|exec:0|csum:
+file:C:\Synopsys\fpga_O-2018.09-SP1\bin64\m_cpld.exe|io:i|time:1543383008|size:20488704|exec:1|csum:E58C77F60C423368A060EE1B7DE3991D

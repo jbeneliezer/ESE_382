@@ -1,0 +1,5 @@
+WARNING DAGGEN_0523: "The source is compiled without the -dbg switch. Line breakpoints and assertion debug will not be available."
+MESSAGE "File: c:\My_Designs\gray_to_binary\gray_bin_csop\src\gray_bin_TB.vhd" 
+MESSAGE "Compile Entity "gray_bin_tb"" 
+MESSAGE "Compile Architecture "non_self_checking" of Entity "gray_bin_tb"" 
+SUCCESS "Compile success 0 Errors 0 Warnings  Analysis time :  0.1 [s]" 

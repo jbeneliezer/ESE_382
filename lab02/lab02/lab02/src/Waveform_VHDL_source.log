@@ -1,0 +1,11 @@
+Comparing waveforms: "post_synthesis.asdb" - "Waveform_VHDL_source.asdb"
+Maximum number of differences per signal: 100000
+Maximum number of differences: 1000000
+Ignore glitches: true
+/testbench/sum_tb from 0fs to 100ps
+/testbench/sum_tb from 20ns to 20100ps
+/testbench/sum_tb from 60ns to 60100ps
+/testbench/carry_out_tb from 0fs to 100ps
+/testbench/carry_out_tb from 60ns to 60100ps
+------------------------------------
+4 signal(s) compared, 5 difference(s) found in 2 signal(s)

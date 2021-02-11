@@ -1,0 +1,53 @@
+#$ DATE Wed Feb 19 10:17:04 2020
+#$ TOOL EDIF2BLIF version IspLever 1.0 
+#$ MODULE gray_bin
+#$ PINS 8 g3 g2 g1 g0 b3 b2 b1 b0
+#$ NODES 15 N_9 N_10 N_8_i N_8_i_i_0 b2_i_0 g0_i g3_c g2_c g1_c g0_c \
+#  b2_c b0_c N_9_i N_10_i b0_c_0 
+.model gray_bin
+.inputs g3.BLIF g2.BLIF g1.BLIF g0.BLIF N_9.BLIF N_10.BLIF N_8_i.BLIF N_8_i_i_0.BLIF b2_i_0.BLIF \
+  g0_i.BLIF g3_c.BLIF g2_c.BLIF g1_c.BLIF g0_c.BLIF b2_c.BLIF b0_c.BLIF N_9_i.BLIF N_10_i.BLIF \
+  b0_c_0.BLIF  
+.outputs b3 b2 b1 b0 N_9 N_10 N_8_i N_8_i_i_0 b2_i_0 g0_i g3_c \
+  g2_c g1_c g0_c b2_c b0_c N_9_i N_10_i b0_c_0
+.names  g3.BLIF g3_c
+1 1
+.names  g2.BLIF g2_c
+1 1
+.names  g1.BLIF g1_c
+1 1
+.names  g0.BLIF g0_c
+1 1
+.names  g3_c.BLIF b3
+1 1
+.names  b2_c.BLIF b2
+1 1
+.names  N_8_i_i_0.BLIF b1
+1 1
+.names  b0_c.BLIF b0
+1 1
+.names  N_9.BLIF N_9_i
+0 1
+.names  N_10.BLIF N_10_i
+0 1
+.names  b0_c_0.BLIF b0_c
+0 1
+.names  N_8_i.BLIF g0_c.BLIF N_9
+11 1
+.names  g0_c.BLIF g0_i
+0 1
+.names  N_8_i_i_0.BLIF g0_i.BLIF N_10
+11 1
+.names  N_9_i.BLIF N_10_i.BLIF b0_c_0
+11 1
+.names  g2_c.BLIF g3_c.BLIF b2_c
+01 1
+10 1
+.names  b2_c.BLIF b2_i_0
+0 1
+.names  b2_i_0.BLIF g1_c.BLIF N_8_i
+01 1
+10 1
+.names  N_8_i.BLIF N_8_i_i_0
+0 1
+.end

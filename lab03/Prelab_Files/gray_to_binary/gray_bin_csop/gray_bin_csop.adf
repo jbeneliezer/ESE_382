@@ -1,0 +1,49 @@
+[Project]
+Current Flow=Generic
+VCS=0
+version=4
+Current Config=compile
+
+[Configurations]
+compile=gray_bin_csop
+
+[Library]
+gray_bin_csop=.\gray_bin_csop\gray_bin_csop.lib
+
+[Settings]
+AccessRead=0
+AccessReadWrite=0
+AccessACCB=0
+AccessACCR=0
+AccessReadWriteSLP=0
+AccessReadTopLevel=1
+DisableC=1
+ENABLE_ADV_DATAFLOW=0
+FLOW_TYPE=HDL
+LANGUAGE=VHDL
+REFRESH_FLOW=1
+FLOWTOOLS=NONE
+FAMILY=
+fileopenfolder=C:\My_Designs\gray_to_binary\gray_bin_csop\src
+
+[LocalVerilogSets]
+EnableSLP=1
+EnableDebug=0
+
+[LocalVhdlSets]
+CompileWithDebug=0
+
+[$LibMap$]
+gray_bin_csop=.
+Active_lib=
+
+[Files]
+/gray_bin_TB.vhd=-1
+/csop_graybin_wv.awc=-1
+/gray_bin_cpos.vhd=-1
+
+[Files.Data]
+.\src\gray_bin_TB.vhd=VHDL Source Code
+.\src\csop_graybin_wv.awc=Accelerated Waveform Configuration
+.\src\gray_bin_cpos.vhd=VHDL Source Code
+

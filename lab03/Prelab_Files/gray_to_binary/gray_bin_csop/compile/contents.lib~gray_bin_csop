@@ -1,0 +1,5 @@
+9
+~E 1 "./../src/gray_bin_csop.vhd" 4 gray_bin
+~A 1 "./../src/gray_bin_cpos.vhd" 12 dataflow
+~E 1 "./../src/gray_bin_TB.vhd" 7 gray_bin_tb
+~A 1 "./../src/gray_bin_TB.vhd" 10 non_self_checking

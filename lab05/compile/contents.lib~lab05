@@ -1,0 +1,6 @@
+40
+~E 1 "./../src/gray_bin_case_vect.vhd" 4 gray_bin
+~A 1 "./../src/gray_bin_if_vect.vhd" 10 gray_bin_case_vect
+~A 1 "./../src/gray_bin_loop.vhd" 10 gray_bin_loop
+~E 1 "./../src/gray_bin_selfcheck_TB(3) (1).vhd" 8 gray_bin_selfcheck_tb
+~A 1 "./../src/gray_bin_selfcheck_tb_vect.vhd" 8 tb_architecture

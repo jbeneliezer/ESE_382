@@ -1,0 +1,10 @@
+C:\Synopsys\fpga_O-2018.09-SP1\bin64\m_cpld.exe  -prodtype  synplify_pro  -encrypt  -pro  -rundir  F:\labs\lab02\Synplify\rev_1   -part ispGAL22V10C  -package LJ  -grade -7    -areadelay 0 -minc -RWCheckOnRam 1 -ovhdl "lab02.vhm" -summaryfile F:\labs\lab02\Synplify\rev_1\synlog\report\lab02_fpga_mapper.xml -merge_inferred_clocks 0  -multisrs  -oedif  F:\labs\lab02\Synplify\rev_1\lab02.edf  F:\labs\lab02\Synplify\rev_1\synwork\lab02_mult.srs  -devicelib  C:\Synopsys\fpga_O-2018.09-SP1\lib\cpld\lattice.v  -ologparam  F:\labs\lab02\Synplify\rev_1\syntmp\lab02.plg  -osyn  F:\labs\lab02\Synplify\rev_1\lab02.srm  -prjdir  F:\labs\lab02\Synplify\  -prjname  lab02  -log  F:\labs\lab02\Synplify\rev_1\synlog\lab02_fpga_mapper.srr  -sn  2018.09  -jobname  "fpga_mapper" 
+relcom:C:\Synopsys\fpga_O-2018.09-SP1\bin64\m_cpld.exe -prodtype synplify_pro -encrypt -pro -rundir ..\..\rev_1 -part ispGAL22V10C -package LJ -grade -7 -areadelay 0 -minc -RWCheckOnRam 1 -ovhdl "lab02.vhm" -summaryfile ..\synlog\report\lab02_fpga_mapper.xml -merge_inferred_clocks 0 -multisrs -oedif ..\lab02.edf ..\synwork\lab02_mult.srs -devicelib C:\Synopsys\fpga_O-2018.09-SP1\lib\cpld\lattice.v -ologparam lab02.plg -osyn ..\lab02.srm -prjdir ..\..\ -prjname lab02 -log ..\synlog\lab02_fpga_mapper.srr -sn 2018.09 -jobname "fpga_mapper"
+rc:0 success:1 runtime:0
+file:..\lab02.edf|io:o|time:1581517896|size:3971|exec:0|csum:
+file:..\synwork\lab02_mult.srs|io:i|time:1581517896|size:1422|exec:0|csum:8318474A01CE672D653FC8496D254220
+file:C:\Synopsys\fpga_O-2018.09-SP1\lib\cpld\lattice.v|io:i|time:1543381616|size:210986|exec:0|csum:5A6E236E09BDE113BE12A03DD223912C
+file:lab02.plg|io:o|time:1581517896|size:0|exec:0|csum:
+file:..\lab02.srm|io:o|time:1581517896|size:4350|exec:0|csum:
+file:..\synlog\lab02_fpga_mapper.srr|io:o|time:1581517896|size:1343|exec:0|csum:
+file:C:\Synopsys\fpga_O-2018.09-SP1\bin64\m_cpld.exe|io:i|time:1543383008|size:20488704|exec:1|csum:E58C77F60C423368A060EE1B7DE3991D

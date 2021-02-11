@@ -1,0 +1,79 @@
+[Project]
+Current Flow=Generic
+VCS=0
+version=4
+Current Config=compile
+
+[Configurations]
+compile=lab02
+
+[Library]
+lab02=.\lab02\lab02.lib
+
+[Settings]
+AccessRead=0
+AccessReadWrite=0
+AccessACCB=0
+AccessACCR=0
+AccessReadWriteSLP=0
+AccessReadTopLevel=1
+DisableC=1
+ENABLE_ADV_DATAFLOW=0
+FLOW_TYPE=HDL
+LANGUAGE=VHDL
+REFRESH_FLOW=1
+FLOWTOOLS=NONE
+FAMILY=
+fileopenfolder=F:\labs\lab02\Synplify\rev_1
+
+[LocalVerilogSets]
+EnableSLP=1
+EnableDebug=0
+
+[LocalVhdlSets]
+CompileWithDebug=1
+NetlistCompilation=1
+EnableVHDL93Key=0
+EnableVHDL2002Key=0
+EnableVHDL2008Key=1
+DisableVHDL87Key=0
+Syntax RelaxLRM=0
+MaxErrorsKey=100
+OptimizationLevel=3
+DisableRangeChecks=0
+ProtectLevel=0
+IncrementalCompilation=0
+AdditionalOptions=
+
+[$LibMap$]
+lab02=.
+Active_lib=
+
+[SpecTracer]
+WindowVisible=0
+
+[HierarchyViewer]
+HierarchyInformation=testbench|behavior|0 
+ShowHide=ShowTopLevel
+Selected=
+
+[Files]
+/half_adder_tb.vhd=-1
+/half_adder.asdb=-1
+/half_adder.awc=-1
+/Waveform_VHDL_source.asdb=-1
+/Waveform_VHDL_source.awc=-1
+/lab02.vhm=-1
+/post_synthesis.asdb=-1
+/post_synthesis.awc=-1
+
+[Files.Data]
+.\src\half_adder_tb.vhd=VHDL Source Code
+.\src\half_adder.asdb=Accelerated Waveform File
+.\src\half_adder.awc=Accelerated Waveform Configuration
+.\src\Waveform_VHDL_source.asdb=Accelerated Waveform File
+.\src\Waveform_VHDL_source.awc=Accelerated Waveform Configuration
+.\src\lab02.vhm=VHDL Source Code
+
+.\src\post_synthesis.asdb=Accelerated Waveform File
+.\src\post_synthesis.awc=Accelerated Waveform Configuration

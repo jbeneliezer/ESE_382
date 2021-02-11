@@ -1,0 +1,36 @@
+Active-HDL 10.5a.12.6914 2020-02-12 10:00:08
+
+Elaboration top modules:
+Architecture                  behavior(testbench)
+
+
+--------------------------------------------------------------------------------------------
+Entity     | Architecture | Library  | Info | Compiler Version        | Compilation Options
+--------------------------------------------------------------------------------------------
+testbench  | behavior     | lab02    |      | 10.5a.12.6914 (Windows) | -dbg -2008
+half_adder | beh          | lab02    |      | 10.5a.12.6914 (Windows) | -dbg -2008
+IBUF       | beh          | lab02    |      | 10.5a.12.6914 (Windows) | -dbg -2008
+OBUF       | beh          | lab02    |      | 10.5a.12.6914 (Windows) | -dbg -2008
+INV        | beh          | lab02    |      | 10.5a.12.6914 (Windows) | -dbg -2008
+XOR2       | beh          | lab02    |      | 10.5a.12.6914 (Windows) | -dbg -2008
+AND2       | beh          | lab02    |      | 10.5a.12.6914 (Windows) | -dbg -2008
+--------------------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------------------
+VHDL Package              | Library  | Info | Compiler Version        | Compilation Options
+--------------------------------------------------------------------------------------------
+standard                  | std      |      |                         | <unavailable>
+TEXTIO                    | std      |      |                         | <unavailable>
+std_logic_1164            | ieee     |      |                         | <unavailable>
+NUMERIC_STD               | ieee     |      |                         | <unavailable>
+components                | synplify |      |                         | <unavailable>
+--------------------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------------------
+Library                   | Comment
+--------------------------------------------------------------------------------------------
+ieee                      | Standard IEEE packages library
+lab02                     | None
+std                       | Standard VHDL library
+synplify                  | Synopsys FPGA Products N-2017.09, SYNPLIFY VHDL library
+--------------------------------------------------------------------------------------------

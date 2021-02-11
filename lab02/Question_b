@@ -1,0 +1,23 @@
+1. What model of the half-adder design entity is used for timing simulation? What is the source of
+this model?
+
+Data flow. The model (entity architecture pair) is defined directly in the half_adder.vhq file. TODO
+
+2. Why does performing a timing simulation obviate the need to perform a post synthesis simulation?
+
+The timing simulation also confirms the logical functionality of the circuit. The primary purpose of a post synthesis simulation is ensure the synthesizer produces a logically correct circuit 
+
+3. What is the purpose of the loc attributes in the entity declaration? What do the simulation and
+synthesis tools do with the loc attributes?
+
+loc attributes are for the place and route tool to make very specific connections to the the isp22V10. The simulation and synthesis tools pass this information to the EDIF file for the place and route tool to use.
+
+4. What does the place-and-route tool do with the loc attributes?
+
+The place and route tool uses the loc attributes to make the correct connections to the ispGAL22V10. Which for this lab has very specific connections that need to be made
+
+5. How are propagation delays denoted in the file half_adder.vhq?
+
+with a  "tpXX time := DELAY" key word after each assignment. where delay is the timing for each propagation delay. Ex) tpLH time := 10ns means the propagation for a signal to go from low to high is 10ns.
+
+Each consecutive statement in a process uses the "after" key word follwed by a delay macro to denote a delay.

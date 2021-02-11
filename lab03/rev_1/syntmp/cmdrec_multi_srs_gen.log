@@ -1,0 +1,7 @@
+C:\Synopsys\fpga_O-2018.09-SP1\bin64\syn_nfilter.exe  -link  -multisrs  F:\lab03\lab03\rev_1\synwork\gray_bin_csop_comp.srs  -osyn  F:\lab03\lab03\rev_1\synwork\gray_bin_csop_mult.srs  -log  F:\lab03\lab03\rev_1\synlog\gray_bin_csop_multi_srs_gen.srr 
+relcom:C:\Synopsys\fpga_O-2018.09-SP1\bin64\syn_nfilter.exe -link -multisrs ..\synwork\gray_bin_csop_comp.srs -osyn ..\synwork\gray_bin_csop_mult.srs -log ..\synlog\gray_bin_csop_multi_srs_gen.srr
+rc:0 success:1 runtime:0
+file:..\synwork\gray_bin_csop_comp.srs|io:i|time:1582130578|size:2514|exec:0|csum:92573A9DD8ED749C8F1880304A57EA3D
+file:..\synwork\gray_bin_csop_mult.srs|io:o|time:1582130580|size:2218|exec:0|csum:
+file:..\synlog\gray_bin_csop_multi_srs_gen.srr|io:o|time:1582130580|size:1540|exec:0|csum:
+file:C:\Synopsys\fpga_O-2018.09-SP1\bin64\syn_nfilter.exe|io:i|time:1543382182|size:8805888|exec:1|csum:6D082E1B368B6196E3DD4675C1955F41
